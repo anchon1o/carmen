@@ -1,1 +1,3543 @@
+# PRELUDE
+
+# ACTE PREMIER
+
+//(Une place, à Séville. A droite, la porte 
+//de la manufacture de tabac. A gauche,
+//au premier plan, le corps de garde. Devant
+//le corps de garde, exhaussée de deux ou
+//trois marches; près du corps de garde, 
+//dans un râtelier, les lances des dragons
+//avec leurs banderoles jaunes et rouges.)
+
+## Scène Première
+
+### Nº1 🎵 Introduction
+
+//(Au lever du rideau, une quinzaine de
+//soldats, Dragons du régiment d'Alcala, 
+//sont groupés devant le corps de garde. 
+//Les uns assis et fumant, les autres accoudés
+//sur le balustrade de la galerie. Mouvement
+//de passants sur la place. Des gens pressés,
+//affairés, vont, viennent, se rencontrent, se
+//saluent, se bousculent, etc.)
+
+[SOLDATS]
+Sur la place
+chacun passe,
+chacun vient, chacun va;
+Drôles de gens que ces gens-là!
+
+[MORALÈS]
+A la porte du corps de garde,
+pour tuer le temps,
+on fume, on jase, l'on regarde
+passer les passants.
+
+[SOLDATS]
+Sur la place
+chacun passe,
+chacun vient, chacun va;
+Drôles de gens que ces gens-là!
+
+[MORALÈS]
+Drôles de gens!
+
+(Micaëla est entrée, hésitante, 
+embarrassée, elle regarde les 
+soldats avance, recule, etc.)
+
+[MORALÈS]
+// aux soldats
+Regardez donc cette petite
+qui semble vouloir nous parler...
+Voyez! voyez!... elle tourne... elle hésite... 
+
+[SOLDATS]
+A son secours il faut aller! 
+
+[MORALÈS]
+// à Micaëla, galamment
+Que cherchez-vous, la belle? 
+
+[MICAËLA]
+Moi, je cherche un brigadier. 
+
+[MORALÈS]
+// avec emphase
+Je suis là...
+Voilà! 
+
+[MICAËLA]
+Mon brigadier, à moi, s'appelle
+Don José... le connaissez-vous? 
+
+[MORALÈS]
+Don José? 
+Nous le connaissons tous. 
+
+[MICAËLA]
+// avec joie
+Vraiment! 
+Est-il avec vous, je vous prie? 
+
+[MORALÈS]
+Il n'est pas brigadier dans notre compagnie. 
+
+[MICAËLA]
+// désappointée
+Alors, il n'est pas là. 
+
+[MORALÈS]
+Non, ma charmante, il n'est pas là.
+Mais tout à l'heure il y sera,
+Il y sera quand la garde montante
+remplacera la garde descendante, 
+
+[MORALÈS, SOLDATS]
+Il y sera quand la garde montante
+remplacera la garde descendante. 
+
+[MORALÈS] 
+// très galant
+Mais en attendant qu'il vienne,
+voulez-vous, la belle enfant,
+voulez-vous prendre la peine
+d'entrer chez nous un instant? 
+
+[MICAËLA]
+Chez vous? 
+
+[MORALÈS, SOLDATS]
+Chez nous! 
+
+[MICAËLA]
+// finement
+Non pas, non pas,
+grand merci, messieurs les soldats. 
+
+[MORALÈS]
+Entrez sans crainte, mignonne,
+je vous promets qu'on aura,
+pour votre chère personne,
+tous les égards qu'il faudra. 
+
+[MICAËLA]
+Je n'en doute pas, cependant
+je reviendrai, c'est plus prudent!
+Je reviendrai quand la garde montante
+remplacera la garde descendante,
+
+[MORALÈS, SOLDATS]
+Il faut rester, car la garde montante
+va remplacer la garde descendante. 
+
+[MORALÈS]
+// retenant Micaëla
+Vous resterez! 
+
+[MICAËLA]
+// cherchant à se dégager
+Non pas, non pas! 
+
+[MORALÈS, SOLDATS]
+Vous resterez! 
+
+[MICAËLA]
+Non pas, non pas!
+Au revoir, messieurs les soldats!
+
+// Elle s'échappe et se sauve en courant
+
+[MORALÈS]
+L'oiseau s'envole...
+on s'en console!..
+Reprenons notre passe-temps
+et regardons passer les gens! 
+
+[SOLDATS]
+Sur la place
+chacun passe,
+chacun vient, chacun va;
+Drôles de gens que ces gens-là!
+
+[MORALÈS]
+Drôles de gens!
+
+
+## Scène Seconde
+
+### Nº2 🎵  Marche et Choeur des Gamins
+
+//(clairon de loin derrière la scène. 
+//Les passants forment un groupe 
+//pour assister à la parade. De petits 
+//gamins entrent en courant de tous 
+//les côtés. La garde montante paraît: 
+//deux fifres et un clairon d'abord, puis
+//Zuniga, Don José et les soldats de la 
+//garde montante)
+
+[GAMINS]
+Avec la garde montante
+nous arrivons, nous voilà!
+Sonne, trompette éclatante!
+Ta ra ta ta ta ra ta ta.
+Nous marchons, la tête haute
+comme de petits soldats,
+marquant, sans faire de faute,
+une,... deux,... marquant le pas.
+Les épaules en arrière
+et la poitrine en dehors,
+les bras de cette manière,
+tombant tout le long du corps.
+Avec la garde montante
+nous arrivons, nous voilà!
+Sonne, trompette éclatante!
+Ta ra ta ta ta ra ta ta....
+
+//(la garde montante va se ranger 
+//en face de la garde descendante)
+
+[ZUNIGA]
+Halte! Repos! 
+
+[MORALÈS]
+// à don José
+Il y a une jolie fille 
+qui est venue te demander. 
+Elle a dit qu'elle reviendrait... 
+
+[DON JOSÉ]
+Une jolie fille?.. 
+
+[MORALÈS]
+Oui, et gentiment habillée: 
+une jupe bleue, 
+des nattes tombant sur les épaules... 
+
+[DON JOSÉ]
+C'est Micaëla! 
+Ce ne peut être que Micaëla. 
+
+[MORALÈS]
+Elle n'a pas dit son nom. 
+
+[ZUNIGA]
+Allons! allons! 
+
+(Les factionnaires sont relevés. 
+Départ de la garde descendante)
+
+[GAMINS]
+Et la garde descendante
+rentre chez elle et s'en va.
+Sonne, trompette éclatante!
+Ta ra ta ta ta ra ta ta.
+Nous marchons, la tête haute
+comme de petits soldats,
+marquant, sans faire de faute,
+une,... deux,... marquant le pas.
+Les épaules en arrière
+et la poitrine en dehors,
+les bras de cette manière,
+tombant tout le long du corps.
+Oui, la garde descendante
+rentre chez elle et s'en va.
+Sonne, trompette éclatante!
+Ta ra ta ta ta ra ta ta.
+
+//(Soldats, gamins, et curieux s'éloignent par
+//le fond. Le lieutenant autorise ses soldats à
+//rompre les rangs; puis ils rentrent dans le
+//corps de garde. Don José et Zuniga restent
+//seuls en scène.) 
+
+## Scène Troisième
+
+[ZUNIGA]
+Dites-moi, brigadier? 
+Qu'est-ce que c'est que ce grand bâtiment?
+
+[DON JOSÉ]
+C'est la manufacture de tabacs.
+
+[ZUNIGA]
+Ce sont des femmes qui travaillent là?.. 
+
+[DON JOSÉ] 
+Oui, mon lieutenant...
+
+[ZUNIGA]
+Il y en a de jeunes?... Et de jolies? 
+
+[DON JOSÉ]
+Je ne sais pas, mon lieutenant. 
+
+[ZUNIGA]
+¡Brave!...
+
+[DON JOSÉ]
+C'est vrai. 
+Ces Andalouses me font peur. 
+
+[ZUNIGA]
+Et puis nous avons un faible 
+pour les jupes bleues...
+
+[DON JOSÉ] 
+// riant
+Ah! mon lieutenant a entendu 
+ce que me disait Moralès?.. 
+
+[ZUNIGA]
+Oui... Et quel âge a-t-elle, 
+la petite Micaëla?.. 
+
+[DON JOSÉ]
+Dix-sept ans... 
+
+[ZUNIGA]
+Je le comprends maintenant...
+
+### Nº3 🎵 Choeur et Scène
+
+//(La cloche de la manufacture 
+//se fait entendre.)
+
+## Scène Quatrième
+
+[DON JOSÉ]
+Voici la cloche qui sonne, mon lieutenant, 
+et vous allez pouvoir juger 
+par vous-même... 
+
+//(La place se remplit de jeunes gens qui
+//viennent se placer sur le passage des
+//cigarières. Les soldats sortent du poste.
+//Don José s'assied sur une chaise, et reste 
+//là fort indiffèrent à toutes ces allées et
+//venues, travaillant à son épinglette. La
+//cloche cesse.) 
+
+[JEUNES GENS] 
+La cloche a sonné. 
+Nous, des ouvrières,
+nous venons ici guetter le retour;
+et nous vous suivrons, 
+brunes cigarières,
+en vous murmurant 
+des propos d'amour,
+
+//(A ce moment paraissent les cigarières, la
+//cigarette aux lèvres. Elles passent sous le
+//pont et descendent lentement en scène.)
+
+[SOLDATS]
+Voyez-les! regards impudents,
+mine coquette!
+Fumant toutes, du bout des dents,
+la cigarette. 
+
+[CIGARIÈRES]
+Dans l'air, nous suivons des yeux
+la fumée,
+qui vers les cieux
+monte, 
+monte parfumée.
+Cela monte gentiment
+à la tête,
+tout doucement 
+cela vous met l'âme en fête!
+Le doux parler des amants
+C'est fumée!
+leurs transports et leur serments,
+C'est fumée!
+Dans l'air, nous suivons
+la fumée 
+qui monte
+en tournant vers les cieux!
+La fumée, ah!
+
+[JEUNES GENS]
+// aux cigarières
+Sans faire les cruelles,
+écoutez-nous les belles,
+ô vous que nous adorons,
+que nous idolâtrons!
+
+[CIGARIÈRES] 
+// reprennent en riant
+Le doux parler 
+des amants
+et leurs transports 
+et leur serments, c'est fumée,
+nous suivons la fumée qui 
+en tournant vers les cieux!
+La fumée!
+
+[JEUNES GENS]
+O vous que nous aimons, 
+écoutez-nous les belles!
+
+## Scène Cinquième
+
+[SOLDATS]
+Mais nous ne voyons pas la Carmencita! 
+
+// Entrée de Carmen
+
+[JEUNES GENS]
+La voilà! 
+
+[SOLDATS]
+La voilà! 
+
+[TOUS]
+La voilà
+voilà la Carmencita! 
+
+//(Carmen a un bouquet de cassie à son
+//corsage et une fleur de cassie dans le 
+//coin de la bouche. Trois ou quatre jeunes
+//gens entrent avec Carmen. Ils la suivent,
+//l'entourent, lui parlent. Elle minaude et
+//caquette avec eux. Don José lève la tête. Il
+//regarde Carmen, puis se remet à travailler
+//à son épinglette. 
+
+[JEUNES GENS]
+// entrés avec Carmen
+Carmen! sur tes pas 
+nous nous pressons tous!
+Carmen! sois gentille, 
+au moins réponds-nous,
+et dis-nous quel jour tu nous aimeras!
+
+[CARMEN]
+// les regardant gaiement
+Quand je vous aimerai? 
+Ma foi, je ne sais pas...
+Peut-être jamais!.. peut-être demain!..
+Mais pas aujourd'hui... c'est certain. 
+
+### Nº4 🎵 Havanaise
+
+[[CARMEN], CHOEUR]
+L'amour est un oiseau rebelle
+que nul ne peut apprivoiser,
+et c'est bien en vain qu'on l'appelle,
+s'il lui convient de refuser!
+Rien n'y fait, menace ou prière,
+l'un parle bien, 
+l'autre se tait;
+et c'est l'autre que je préfère,
+il n'a rien dit, mais il me plaît. 
+L'amour! l'amour!
+L'amour est enfant de Bohème,
+il n'a jamais, jamais connu de loi,
+si tu ne m'aimes pas, je t'aime,
+si je t'aime, prends garde à toi!...
+L'oiseau que tu croyais surprendre
+battit de l'aile et s'envola...
+l'amour est loin, tu peux l'attendre,
+tu ne l'attends plus,... il est là...
+Tout autour de toi, vite, vite,
+il vient, s'en va, puis il revient...
+tu crois le tenir, il t'évite,
+tu crois l'éviter, il te tient!
+l'amour! l'amour! 
+
+## Scène Sixième
+
+### Nº6 🎵 Scène
+
+[JEUNES GENS]
+Carmen! sur tes pas 
+nous nous pressons tous!
+Carmen! sois gentille, 
+au moins réponds-nous!
+
+//(Moment de silence. Les jeunes gens
+//entourent Carmen, celle-ci les regarde 
+//l'un après l'autre, sort du cercle qu'ils 
+//forment autour d'elle et s'en va droit à 
+//don José, qui est toujours occupé de son
+//épinglette. Elle arrache de son corsage 
+//la fleur de cassie et la lance à don José. 
+//Il se lève brusquement.)
+
+[CIGARIÈRES]
+// riant entre elles
+L'amour est enfant de Bohème,
+il n'a jamais connu de loi,
+si tu ne m'aimes pas, je t'aime,
+si je t'aime, 
+prends garde à toi! 
+
+//(Eclat de rire général; la cloche de 
+//la manufacture sonne une deuxième 
+//fois. Sortie des ouvrières. Carmen 
+//sort la première en courant et elle 
+//entre dans la manufacture. Les jeunes 
+//gens sortent à droite et à gauche. Le
+//lieutenant qui bavardait avec deux ou 
+//trois ouvrières, les quitte et rentre dans 
+//le poste après que les soldats y sont 
+//rentrés. Don José reste seul.)
+
+[DON JOSÉ]
+Quelle effronterie!..
+
+// Il ramasse la fleur
+
+Cette fleur ça m'a fait l'effet 
+d'une balle qui m'arrivait...
+certainement s'il y a des sorcières, 
+cette fille-là en est une.
+
+// Entre Micaëla.
+
+## Scène Septième
+
+[MICAËLA]
+José!
+
+[DON JOSÉ]
+// cachant précipitamment la fleur de cassie
+Micaëla!.. c'est toi... 
+
+[MICAËLA]
+C'est moi!...
+C'est votre mère qui m'envoie... 
+
+### Nº6 🎵 Duo
+
+[DON JOSÉ]
+// ému
+Parle-moi de ma mère! 
+
+[MICAËLA] 
+J'apporte de sa part, fidèle messagère,
+cette lettre... 
+
+[DON JOSÉ] 
+// joyeux, regardant la lettre
+Une lettre! 
+
+[MICAËLA]
+Et puis un peu d'argent,
+
+// Elle lui remet une petite bourse
+
+pour ajouter à votre traitement.
+
+// hésitant
+
+Et puis...
+
+[DON JOSÉ]
+Et puis?... 
+
+[MICAËLA]
+Et puis... vraiment je n'ose...
+Et puis... encore une autre chose
+qui vaut mieux que l'argent! 
+et qui, pour un bon fils
+aura sans doute plus de prix. 
+
+[DON JOSÉ]
+Cette autre chose, quelle est-elle?
+Parle donc... 
+
+[MICAËLA]
+Oui, je parlerai.
+Ce que l'on m'a donné, 
+je vous le donnerai.
+Votre mère avec moi sortait de la chapelle,
+et c'est alors qu'en m'embrassant:
+
+"Tu vas, m'a-t-elle dit, 
+t'en aller à la ville;
+la route n'est pas longue; 
+une fois à Séville,
+tu chercheras mon fils,
+mon José, mon enfant!...
+Et tu lui diras que sa mère
+songe nuit et jour à l'absent...
+qu'elle regrette et qu'elle espère,
+qu'elle pardonne et qu'elle attend.
+tout cela, n'est-ce pas, mignonne,
+de ma part tu le lui diras;
+et ce baiser que je te donne,
+de ma part tu le lui rendras."
+
+[DON JOSÉ] 
+// très ému
+Un baiser de ma mère? 
+
+[MICAËLA]
+Un baiser pour son fils!... 
+José, je vous le rends 
+comme je l'ai promis! 
+
+// elle donne à José un baiser bien franc
+
+[DON JOSÉ] 
+Ma mère, je la vois!.. 
+oui, je revois mon village!
+O souvenirs d'autrefois! 
+doux souvenirs du pays!
+Vous remplissez mon coeur 
+de force et de courage!
+O souvenirs chéris! 
+Souvenirs d'autrefois! 
+Souvenirs du pays!
+
+[MICAËLA]
+Sa mère, il la revoit! 
+Il revoit son village!
+O souvenirs d'autrefois! 
+Souvenirs du pays!
+Vous remplissez son coeur 
+de force et de courage!
+O souvenirs chéris! 
+
+[DON JOSÉ] 
+// à lui même
+Qui sait de quel démon 
+j'allais être la proie!
+Même de loin, 
+ma mère me défend,
+et ce baiser qu'elle m'envoie,
+écarte le péril 
+et sauve son enfant! 
+
+[MICAËLA] 
+Quel démon? quel péril? 
+je ne comprends pas bien...
+Que veut dire cela? 
+
+[DON JOSÉ]
+Rien! rien!
+Parlons de toi, la messagère;
+Tu vas retourner au pays? 
+
+[MICAËLA]
+Oui, ce soir même... 
+demain je verrai votre mère. 
+
+[DON JOSÉ]
+Tu la verras! 
+Eh bien! tu lui diras:
+
+"Que son fils l'aime et la vénère
+et qu'il se repent aujourd'hui.
+Il veut que là-bas sa mère
+soit contente de lui!"
+
+Tout cela, 
+n'est-ce pas, mignonne,
+de ma part, tu le lui diras!
+Et ce baiser que je te donne,
+de ma part, tu le lui rendras!
+
+// Il l'embrasse
+
+[MICAËLA] 
+Oui, je vous le promets... 
+de la part de son fils,
+José, je le rendrai, comme je l'ai promis. 
+
+[DON JOSÉ]
+Ma mère, je la vois!.. 
+oui, je revois mon village!
+O souvenirs d'autrefois! 
+doux souvenirs du pays!
+O souvenirs chéris!
+Vous remplissez mon coeur 
+de force et de courage!
+O souvenirs chéris! 
+Vous me rendez tout mon courage
+ô souvenirs du pays!
+
+[MICAËLA]
+Sa mère, il la revoit! 
+Il revoit son village!
+| O souvenirs d'autrefois! 
+Souvenirs du pays!
+Vous remplissez son coeur 
+de force et de courage!
+O souvenirs chéris! 
+Vous lui rendez tout son courage
+Ô souvenirs du pays!
+
+[DON JOSÉ]
+Attends un peu maintenant... 
+je vais lire sa lettre... 
+
+[MICAËLA]
+Non pas, lisez d'abord,
+Et puis je reviendrai... 
+
+// elle sort
+
+[DON JOSÉ] 
+// lit la lettre en silence
+Ne crains rien
+ma mère,
+ton fils t'obéira,
+fera ce que tu lui dis;
+j'aime Micaëla,
+je la prendrai pour femme,
+quant à tes fleurs, sorcière infâme!
+
+## Scène Huitième
+
+### Nº7 🎵 Choeur
+
+(Au moment où il va arracher les fleurs 
+de sa veste, grande rumeur dans l'intérieur
+de la manufacture. Le lieutenant entre suivi
+des soldats)
+
+[CIGARIÈRES]
+// dans la coulisse
+Au secours!
+
+[ZUNIGA]
+Que se passe-t-il donc là-bas?
+
+[CIGARIÈRES 1]
+// elles entrent en courant
+Au secours!
+N'entendez-vous pas?
+
+[CIGARIÈRES 2]
+Au secours! messieurs les soldats!
+
+[CIGARIÈRES 1]
+C'est la Carmencita!
+
+[CIGARIÈRES 2]
+Non, non, ce n'est pas elle!
+
+[CIGARIÈRES 1]
+C'est elle! Si fait, si fait, c'est elle!
+Elle a porté les premiers coups!
+
+[CIGARIÈRES 2]
+Ne les écoutez pas!
+Monsieur, écoutez-nous!
+
+[CIGARIÈRES 1]
+Ne les écoutez pas!
+Monsieur, écoutez-nous!
+
+[TOUTES]
+Ne les écoutez pas!
+Monsieur, écoutez-nous!
+
+[CIGARIÈRES 2]
+// elles tirent l'officier de leur côté
+La Manuelita disait
+et répétait à voix haute,
+qu'elle achèterait sans faute
+un âne qui lui plaisait. 
+
+[CIGARIÈRES 1]
+// même jeu
+Alors la Carmencita,
+railleuse à son ordinaire,
+dit: "Un âne, 
+pour quoi faire?
+Un balai te suffira."
+
+[CIGARIÈRES 2]
+Manuelita riposta
+et dit à sa camarade:
+Pour certaine promenade,
+mon âne te servira! 
+
+[CIGARIÈRES 1]
+Et ce jour-là tu pourras
+à bon droit faire la fière!
+Deux laquais suivront derrière,
+t'émouchant à tour de bras. 
+
+[TOUTES]
+Là-dessus, toutes les deux
+se sont prises aux cheveux,
+
+[ZUNIGA] 
+// avec humeur
+Au diable tout ce bavardage!
+
+// A don José
+
+Prenez, José, deux hommes avec vous
+et voyez là dedans 
+qui cause ce tapage! 
+
+//(Don José et les soldats 
+//entrent dans la manufacture)
+
+[CIGARIÈRES 1]
+C'est la Carmencita!
+
+[CIGARIÈRES 2]
+Non, non, ce n'est pas elle!
+
+[ZUNIGA] 
+// aux soldats
+Holà!
+Eloignez-moi toutes ces femmes-là! 
+
+[TOUTES]
+Monsieur!
+
+[SOLDATS]
+// essayant à repousser les femmes
+Tout doux! 
+Eloignez-vous et taisez-vous!
+
+[TOUTES]
+Monsieur. N e le écoutez pas!
+Écoutez-nous!
+Monsieur!
+
+[ZUNIGA]
+Holà! soldats! 
+
+//(Les soldats font évacuer la place. 
+//Carmen paraît sur la porte de la
+//manufacture amenée par don José 
+//et suivie par deux dragons.)
+
+## Scène Neuvième
+
+[ZUNIGA]
+Voyons, brigadier... 
+Maintenant que nous avons 
+un peu de silence... 
+qu'est-ce que vous avez trouvé là-dedans?.. 
+
+[DON JOSÉ]
+Elle avait sur la figure 
+deux coups de couteau... 
+en face de la blessée j'ai vu...
+
+// il s'arrête sur un regard de Carmen
+
+[ZUNIGA]
+Eh bien?.. 
+
+[DON JOSÉ]
+J'ai vu mademoiselle... 
+
+[ZUNIGA]
+Mademoiselle Carmencita? 
+
+[DON JOSÉ]
+Oui, mon lieutenant... 
+
+[ZUNIGA]
+Et qu'est-ce qu'elle disait? 
+Parlez, j'attends...
+
+### Nº8 🎵 Chanson et Mélodrame
+
+[CARMEN]
+// fredonnant
+Tra la, la, la, la, la, la, la,
+Coupe-moi, brûle-moi,
+je ne te dirai rien!
+Tra la, la, la, la, la, la, la,
+Je brave tout, le feu,
+le fer et le ciel même! 
+
+[ZUNIGA]
+Ce ne sont pas des chansons 
+que je te demande, 
+c'est une réponse. 
+
+[CARMEN]
+Tra la, la, la, la, la, la, la,
+Mon secret, 
+je le garde et je le garde bien!
+Tra la, la, la, la, la, la, la,
+J'aime un autre et meurs
+en disant que je l'aime! 
+
+[ZUNIGA]
+Ah! ah! nous le prenons sur ce ton-là!...
+
+// à José
+
+Ce qui est sûr, n'est-ce pas, 
+c'est qu'il y a eu des coups de couteau 
+et que c'est elle qui les a donnés! 
+
+//(En ce moment, cinq ou six femmes 
+//à droite réussissent à forcer la ligne des
+//factionnaires et se précipitent sur la scène
+//Une de ces femmes se trouve près de
+//Carmen. Celle-ci lève la main et veut 
+//se jeter sur la femme. Don José arrête
+//Carmen. Les soldats écartent les femmes et
+//les repoussent cette fois tout à fait hors de
+//la scène)
+
+[ZUNIGA]
+// à Carmen; parlé
+Eh! eh! Vous avez la main leste décidément.
+
+// aux soldats
+
+Trouvez-moi une corde. 
+
+[CARMEN]
+// impertinente en regardant l'officier
+Tra la, la, la, la, la, la, la...
+
+[UN SOLDAT]
+// apportant une corde; parlé
+Voilà, mon lieutenant. 
+
+[ZUNIGA]
+// à don José
+Prenez, et attachez-moi 
+ces deux jolis mains.
+
+//(Carmen, sans faire le moindre résistance,
+//tend en souriant ses deux mains à don José)
+
+C'est dommage vraiment, 
+car elle est gentille... 
+
+// a Carmen
+
+Mais si gentille que vous soyez, 
+vous n'en irez pas moins faire 
+un tour à la prison. 
+Vous pourrez y chanter 
+vos chansons de bohémienne. 
+Le porte-clefs vous dira ce qu'il en pense.
+Je vais écrire l'ordre.
+
+// à don José
+
+C'est vous qui la conduirez...
+
+// Il sort
+
+## Scène Dixième
+
+//(Un petit moment de silence. Carmen lève
+//les yeux et regarde don José. Celui-ci se
+//détourne, s'éloigne de quelques pas, puis
+//revient à Carmen, qui le regarde toujours.)
+
+[CARMEN]
+Où me conduirez-vous? 
+
+[DON JOSÉ]
+A la prison, ma pauvre enfant... 
+
+[CARMEN]
+Seigneur officier, ayez pitié de moi!... 
+Vous êtes si jeune, si gentil!...
+
+[DON JOSÉ]
+Tu aurais au prison, 
+parole de navarrais.
+
+[CARMEN]
+Vous êtes Navarraise?... Moi aussi.
+
+[DON JOSÉ]
+Vous êtes Navarraise, vous?... 
+Vos yeux seuls... votre bouche... 
+Tout vous dit Bohémienne... 
+
+[CARMEN]
+Oui, je suis Bohémienne, mais tu n'en feras
+moins ce que je te demande... 
+Tu le feras parce que tu m'aimes... 
+
+[DON JOSÉ]
+Moi! 
+
+[CARMEN]
+Eh! oui, tu m'aimes... 
+ne me dis pas non, je m'y connais! 
+Et cette fleur que tu as gardée. 
+Oh! tu peux la jeter maintenant... 
+le charme a opéré... 
+
+[DON JOSÉ] 
+// avec colère
+Ne me parle plus, je te défends de me parler.
+
+[CARMEN]
+Vous me défendez de parler, 
+je ne parlerai plus...
+
+### Nº9 🎵 Chanson et Duo
+
+[CARMEN]
+(avec intention en regardant souvent 
+don José qui se rapproche peu à peu)
+Près des remparts de Séville
+chez mon ami Lillas Pastia,
+j'irai danser la séguedille
+et boire du Manzanilla,
+j'irai chez mon ami Lillas Pastia.
+Oui, mais toute seule on s'ennuie,
+et les vrais plaisir 
+sont à deux...
+donc pour me tenir compagnie,
+j'amènerai mon amoureux!
+
+// riant
+
+Mon amoureux!.. 
+Il est au diable!
+Je l'ai mis à la porte hier!
+Mon pauvre coeur, 
+très consolable,
+mon coeur est libre comme l'air!...
+J'ai des galants à la douzaine;
+mais ils ne sont pas à mon gré.
+Voici la fin de la semaine:
+qui veut m'aimer? 
+Je l'aimerai!
+Qui veut mon âme?...
+Elle est à prendre!...
+Vous arrivez au bon moment!
+Je n'ai guère le temps d'attendre,
+car avec mon nouvel amant...
+près des remparts de Séville,
+chez mon ami Lillas Pastia,
+j'irai danser la séguedille
+et boire du Manzanilla,
+j'irai chez mon ami 
+Lillas Pastia!
+
+[DON JOSÉ]
+Tais-toi, je t'avais dit de ne pas me parler!
+
+[CARMEN] 
+// simplement
+Je ne te parle pas...
+je chante pour moi-même,
+et je pense! 
+il n'est pas défendu de penser!
+Je pense à certain officier,
+qui m'aime
+et qu'à mon tour je pourrais 
+bien aimer! 
+
+[DON JOSÉ] 
+// ému
+Carmen! 
+
+[CARMEN]
+Mon officier n'est pas un capitaine,
+pas même un lieutenant, 
+il n'est que brigadier;
+mais c'est assez 
+pour une bohémienne
+et je daigne m'en contenter! 
+
+[DON JOSÉ]
+Carmen, je suis comme 
+un homme ivre,
+si je cède, si je me livre,
+ta promesse, 
+tu la tiendras...
+Ah! si je t'aime, 
+Carmen, tu m'aimeras! 
+
+[CARMEN]
+Oui.
+
+[DON JOSÉ]
+(délie la corde qui attache 
+les mains de Carmen)
+Chez Lillas Pastia,
+
+[CARMEN]
+Nous danserons...
+
+[DON JOSÉ]
+Tu le promets!
+
+[CARMEN]
+...la séguedille...
+
+[DON JOSÉ]
+Carmen...
+
+[CARMEN]
+...en buvant du Manzanilla, ¡Ah!
+
+[DON JOSÉ]
+Tu le promets... 
+
+[CARMEN] 
+Près des remparts de Séville,
+chez mon ami 
+Lillas Pastia,
+nous danserons la séguedille
+et boirons du Manzanilla,
+tra la la la la la...
+
+[DON JOSÉ] 
+Le lieutenant!.. Prenez garde! 
+
+(Carmen va se replacer sur son 
+escabeau, les mains derrière le dos. 
+Rentre le lieutenant.)
+
+### Nº10 🎵 Final
+
+## Scène Onzième
+
+[ZUNIGA] 
+// à don José
+Voici l'ordre; 
+partez, et faites bonne garde. 
+
+[CARMEN] 
+// bas à José
+En chemin je te pousserai,
+aussi fort que je le pourrai...
+Laisse-toi renverser... 
+le reste me regarde! 
+
+//(Elle se place entre les deux dragons. José
+//à côté d'elle. Les femmes et les bourgeois
+//sont rentrés en scène toujours maintenus à
+//distance par les dragons... 
+
+[CARMEN] 
+// fredonnant et riant au nez de Zuniga
+L'amour est enfant de Bohème,
+il n'a jamais, jamais connu de loi;
+si tu ne m'aimes pas, je t'aime;
+si je t'aime, prends garde à toi!
+
+//(En arrivant à l'entrée du pont, Carmen
+//pousse José qui se laisse renverser.
+//Confusion, désordre, Carmen s'enfuit
+
+# ACTE DEUXIÈME
+
+
+## Scène Première
+
+//(La taverne de Lillas Pastia. Carmen,
+//Mercédès, Frasquita, le lieutenant 
+//Zuniga, Moralès et un lieutenant. Deux
+//bohémiennes, au milieu de la scène,
+//dansent)
+
+### Nº11 🎵 Chanson
+
+[CARMEN]
+Les tringles des sistres tintaient
+avec un éclat métallique,
+et sur cette étrange musique
+les zingarellas se levaient.
+Tambours de basque allaient leur train,
+et les guitares forcenées
+grinçaient sous des mains obstinées,
+même chanson, même refrain,
+Tra la la la, tra la la la...
+
+[FRASQUITA, MERCÉDÈS, CARMEN]
+Tra la la la, tra la la la...
+
+[CARMEN]
+Les anneaux de cuivre et d'argent
+reluisaient sur les peaux bistrées;
+d'orange ou de rouge zébrées
+les étoffes flottaient au vent.
+La danse au chant se mariait,
+d'abord indécise et timide,
+plus vive ensuite et plus rapide...
+cela montait, montait, montait!
+Tra la la la, tra la la la...
+
+[FRASQUITA, MERCÉDÈS, CARMEN]
+Tra la la la, tra la la la...
+
+[CARMEN]
+Les Bohémiens, à tour de bras,
+de leurs instruments faisaient rage,
+et cet éblouissant tapage
+ensorcelait les zingaras.
+Sous le rhythme de la chanson,
+ardentes, folles, enfiévrées,
+elles se laissaient, enivrées,
+emporter par le tourbillon!
+Tra la la la, tra la la la...
+
+[FRASQUITA, MERCÉDÈS, CARMEN]
+Tra la la la, tra la la la...
+
+//(Carmen, Frasuita et Mercèdés dansent. Après
+//la danse, Lillas Pastia se met à tourner 
+//autour des officiers d'un air embarrassé)
+
+[ZUNIGA]
+// à Lillas Pastia
+Vous avez quelque chose à nous dire, 
+maître Lillas Pastia? 
+
+[LILLAS PASTIA]
+Mon Dieu, messieurs... 
+Il commence à se faire tard...
+
+[ZUNIGA]
+Cela veut dire que tu nous mets à la porte!...
+
+[LILLAS PASTIA]
+¡Oh non, messieurs les officiers, no, no!... 
+Mais mon auberge devrait être fermée
+depuis dix minutes... 
+
+[ZUNIGA]
+Nous avons encore, avant l'appel, le temps
+d'aller passer une heure au théâtre... 
+vous y viendrez avec nous, n'est-ce pas?
+
+[MERCÉDÈS]
+C'est impossible... 
+
+[ZUNIGA]
+Frasquita! 
+
+[FRASQUITA]
+Je suis désolée... 
+
+[ZUNIGA]
+Mais toi, Carmen... 
+je suis bien sûr que tu ne refuseras pas... 
+
+[CARMEN]
+Je vous refuse!
+
+[ZUNIGA]
+Parce qu'il y a un mois 
+j'ai eu la cruauté de t'envoyer à la prison...
+
+[CARMEN] 
+// comme si elle ne se rappelait pas
+À la prison?... 
+Je ne souviens pas d'être allée à la prison...
+
+[ZUNIGA]
+Le brigadier qui ayant jugé à propos de te
+laisser échapper... et de se faire dégrader 
+et emprisonner pour cela... 
+Aujourd'hui il a sorti de la prison
+
+[CARMEN] 
+// faisant claquer ses castagnettes
+Tout est bien puisqu'il en est sorti, 
+tout est bien. 
+
+### Nº12 🎵 Choeur et Ensemble
+
+[CHOEUR]
+// derrière la scène
+Vivat! vivat le torero!
+Vivat! vivat Escamillo!
+Jamais homme intrépide
+n'a par un coup plus beau,
+d'une main plus rapide.
+
+[ZUNIGA]
+Qu'est-ce que c'est que ca?
+
+[MERCÉDÈS]
+Une promenade aux flambeaux...
+
+[ANDRÈS]
+Et qui promène-t-on?
+
+[FRASQUITA]
+C'est Escamillo... 
+un torero qui s'est fait remarquer 
+aux dernières courses de Grenade
+et qui promet d'égaler la gloire 
+de Montes et de Pepe Illo... 
+
+[ANDRÈS]
+Pardieu, il faut le faire venir... 
+nous boirons en son honneur! 
+
+[ZUNIGA]
+C'est cela, je vais l'inviter.
+
+// il va à la fenêtre
+
+Monsieur le torero... 
+voulez-vous nous faire l'amitié
+de monter ici? 
+Vous y trouverez des gens 
+qui aiment fort tous ceux qui, comme vous,
+ont de l'adresse et du courage...
+
+// quittant la fenêtre
+
+Il vient... 
+
+[LILLAS PASTIA] 
+Messieurs, les officiers, 
+je vous avait dit... 
+
+[ZUNIGA] 
+Ayez la bonté de nous laisser tranquille,
+maître Lillas Pastia, 
+et faites-nous apporter de quoi boire... 
+
+// Entrée d'Escamillo et de ses amis
+
+[TOUS]
+Vivat! vivat le torero!
+
+## Scène Seconde
+
+### Nº13 🎵 Couplets
+
+[ESCAMILLO]
+// rude et très rythmé
+Votre toast, je peux vous le rendre,
+señors, car avec les soldats
+oui, les toreros peuvent s'entendre;
+pour plaisirs, ils ont les combats!
+Le cirque est plein, 
+c'est jour de fête!
+Le cirque est plein du haut en bas;
+les spectateurs perdant la tête,
+s'interpellent à grands fracas!
+Apostrophes, cris et tapage
+poussés jusques à la fureur!
+Car c'est la fête du courage!
+C'est la fête des gens de coeur!
+Allons! en garde! allons! allons! ah!
+Toréador, en garde!
+Et songe bien, oui, 
+songe en combattant 
+qu'un oeil noir te regarde
+et que l'amour t'attend,
+
+[TOUS]
+Toréador, en garde!
+Toréador! Toréador!
+Et songe bien, oui, 
+songe en combattant,
+| qu'un oeil noir te regarde
+et que l'amour t'attend,
+Toréador, l'amour, l'amour t'attend!
+
+[ESCAMILLO]
+Tout d'un coup, on fait silence,
+ah! que se passe-t-il?
+Plus de cris, 
+c'est l'instant!
+Le taureau s'élance 
+en bondissant hors du toril!
+Il entre, il frappe!... un cheval roule,
+entraînant un picador.
+"Ah! Bravo! Toro!" 
+hurle la foule.
+Le taureau va... 
+il vient et frappe encore!
+En secouant ses banderilles,
+plein de fureur, il court!..
+le cirque est plein de sang!
+On se sauve... on franchit les grilles!..
+C'est ton tour maintenant!
+Allons! en garde! allons! allons! 
+Ah! Toréador, en garde!
+Toréador! Toréador!
+Et songe bien, oui, 
+songe en combattant
+qu'un oeil noir te regarde
+et que l'amour t'attend,
+Toréador, l'amour, l'amour t'attend! 
+
+[TOUS]
+Toréador, en garde!
+Toréador! Toréador!
+Et songe bien, oui, songe en combattant,
+qu'un oeil noir te regarde
+et que l'amour t'attend,
+Toréador, l'amour, l'amour t'attend!
+
+[LILLAS PASTIA]
+Messieurs les officiers, je vous en prie. 
+
+[ZUNIGA]
+C'est bien, c'est bien, nous partons. 
+
+[ESCAMILLO]
+// à Carmen
+Dis-moi ton nom, et la première fois 
+que je frapperai le taureau, 
+ce sera ton nom que je prononcerai. 
+
+[CARMEN]
+Carmen, la Carmencita, comme tu voudras. 
+
+[ESCAMILLO]
+Et bien, Carmen, ou la Carmencita, 
+si je m'avisais de t'aimer 
+et de vouloir être aimé de toi, 
+qu'est-ce que tu me répondrais? 
+
+[CARMEN]
+Je répondrais que quant à être aimé de moi
+pour le moment, il n'y faut pas songer! 
+
+[ESCAMILLO]
+J'attendrai alors 
+et je me contenterai d'espérer... 
+
+[CARMEN]
+Il n'est pas défendu d'attendre 
+et il est toujours agréable d'espérer. 
+
+[ZUNIGA]
+// Bas à Carmen
+Écoute-moi, Carmen, 
+puisque tu ne veux pas venir avec nous, 
+c'est moi qui dans une heure reviendrai ici...
+
+[CARMEN]
+Ici?.. 
+
+[ZUNIGA]
+Oui, dans une heure... après l'appel. 
+
+[CARMEN]
+Je ne vous conseille pas de revenir... 
+
+[ZUNIGA]
+Je me risquerai.
+
+### Nº13bis 🎵 Choeur
+
+[CHOEUR]
+Toréador, en garde!
+Toréador! Toréador!
+Et songe bien, oui, 
+songe en combattant
+qu'un oeil noir te regarde
+et que l'amour t'attend,
+Toréador! l'amour, l'amour t'attend! 
+
+(Tout le monde sort, excepté Carmen,
+Frasquita, Mercédès et Lillas Pastia.)
+
+## Scène Troisième
+
+FRASQUITA 
+// à Pastia
+Pourquoi étais-tu si pressé 
+de les faire partir?
+
+[LILLAS PASTIA]
+Le Dancaire et le Remendado 
+viennent d'arriver... 
+ils ont à vous parler 
+de vos affaires...
+¡Regardez là!
+
+(Entrent le Dancaïre et le Remendado.
+Pastia ferme les portes, met les volets, etc.)
+
+[FRASQUITA]
+Eh bien, les nouvelles? 
+
+[DANCAIRE]
+Pas trop mauvaises les nouvelles, 
+nous arrivons de Gibraltar... 
+Nous avons de marchandises anglaises...
+mais c'est de vous que nous avons besoin... 
+
+[MERCÉDÈS]
+// riant
+Pour vous aider à porter les ballots?... 
+
+[REMENDADO]
+// avec ton moqueur
+Oh! non... 
+Faire porter des ballots à des dames... 
+ça ne serait pas distingué. 
+
+[DANCAIRE]
+// menaçant
+Remendado? 
+
+[REMENDADO]
+Oui, patron. 
+
+[FRASQUITA]
+Et bien?
+Qu'est-ce que nous ferons?
+
+[DANCAIRE]
+Pour autre chose...
+
+### Nº14 🎵 Quintette
+
+[DANCAIRE]
+Nous avons en tête une affaire!
+
+[FRASQUITA]
+Est-elle bonne, dites-nous?
+
+[MERCÉDÈS]
+Est-elle bonne, dites-nous?
+
+[DANCAIRE]
+Elle est admirable, ma chère;
+Mais nous avons besoin de vous.
+
+[REMENDADO]
+Oui, nous avons besoin de vous.
+
+[CARMEN], FRASQUITA, MERCÉDÈS
+De nous?
+Quoi, vous avez besoin de nous?
+
+[REMENDADO, DANCAIRE]
+Oui, nous avons besoin de vous!
+Car nous l'avouons humblement
+et fort respectueusement,
+Quand il s'agit de tromperie,
+de duperie, de volerie,
+il est toujours bon, sur ma foi,
+d'avoir les femmes avec soi.
+Et sans elles, mes toutes belles,
+on ne fait jamais rien de bien!
+
+[FRASQUITA, MERCÉDÈS, CARMEN]
+Quoi, sans nous jamais rien
+de bien?
+
+[REMENDADO, DANCAIRE]
+N'êtes-vous pas de cet avis?
+
+[FRASQUITA, MERCÉDÈS, CARMEN]
+Si fait, je suis de cet avis.
+
+[TOUS]
+Quand il s'agit de tromperie,
+de duperie, de volerie,
+il est toujours bon, sur ma foi,
+d'avoir les femmes avec soi.
+Et sans elles, les toutes belles,
+on ne fait jamais rien de bien!
+
+[DANCAIRE]
+C'est dit, alors; vous partirez?
+
+[MERCÉDÈS]
+Quand vous voudrez.
+
+[FRASQUITA]
+Quand vous voudrez.
+
+[DANCAIRE]
+Mais... tout de suite...
+
+[CARMEN]
+Ah! permettez... permettez!
+
+// à Mercédès et à Frasquita
+
+S'il vous plaît de partir... partez!
+Mais je ne suis pas du voyage.
+Je ne pars pas... je ne pars pas!
+
+[DANCAIRE, REMENDADO]
+Carmen, mon amour, tu viendras,
+et tu n'auras pas le courage
+de nous laisser dans l'embarras.
+
+[CARMEN]
+Je ne pars pas, je ne pars pas!
+
+[FRASQUITA, MERCÉDÈS]
+Ah! ma Carmen, tu viendras! 
+
+[DANCAIRE]
+Mais au moins la raison, 
+Carmen, tu la diras.
+
+[FRASQUITA, MERCÉDÈS, REMENDADO, DANCAIRE]
+La raison! 
+
+[CARMEN]
+Je la dirai certainement...
+
+[FRASQUITA, MERCÉDÈS, REMENDADO, DANCAIRE]
+Voyons!
+
+[CARMEN]
+La raison, c'est qu'en ce moment...
+
+[REMENDADO, DANCAIRE]
+Eh bien?
+
+[FRASQUITA, MERCÉDÈS]
+Eh bien?
+
+[CARMEN]
+Je suis amoureuse!
+
+[REMENDADO, DANCAIRE] 
+// stupéfaits
+Qu'a-t-elle dit?
+
+[FRASQUITA, MERCÉDÈS]
+Elle dit qu'elle est amoureuse!
+
+[FRASQUITA, MERCÉDÈS, REMENDADO, DANCAIRE]
+Amoureuse!
+
+[CARMEN]
+Oui, amoureuse!
+
+[DANCAIRE]
+Voyons, Carmen, sois sérieuse
+
+[CARMEN]
+Amoureuse à perdre l'esprit! 
+
+[REMENDADO, DANCAIRE] 
+// un peu ironique
+La chose, certes, nous étonne,
+mais ce n'est pas le premier jour
+où vous aurez su, ma mignonne,
+faire marcher de front 
+le devoir et l'amour...
+
+[CARMEN] 
+// franchement
+Mes amis, je serais fort aise
+de partir avec vous ce soir;
+mais cette fois, ne vous déplaise,
+il faudra que l'amour passe 
+avant le devoir...
+Ce soir l'amour passe 
+avant le devoir!
+
+[DANCAIRE]
+Ce n'est pas là ton dernier mot?
+
+[CARMEN]
+Absolument!
+
+[REMENDADO]
+Il faut que tu te laisses attendrir!
+
+[FRASQUITA, MERCÉDÈS, REMENDADO, DANCAIRE]
+Il faut venir, Carmen, il faut venir!
+Pour notre affaire,
+c'est nécessaire; car entre nous...
+
+[CARMEN]
+Quant à cela, j'admets bien avec vous: 
+
+[TOUS]
+Quand il s'agit de tromperie,
+de duperie, de volerie,
+il est toujours bon, sur ma foi,
+d'avoir les femmes avec soi.
+Et sans elles, les toutes belles,
+on ne fait jamais rien de bien!
+
+[DANCAIRE]
+En voilà assez; je t'ai dit qu'il fallait venir,
+et tu viendras... je suis le chef... 
+Amoureuse... 
+ce n'est pas une raison, cela.
+
+[REMENDADO]
+Je suis amoureux et utile. 
+
+[DANCAIRE]
+Remendado!
+
+[REMENDADO]
+Oui, patron!
+
+[FRASQUITA]
+Je ne t'ai jamais vue comme cela; 
+qui attends-tu, donc?.. 
+
+[CARMEN]
+Un pauvre diable de soldat 
+qui m'a rendu service... 
+
+[MERCÉDÈS]
+Ce soldat qui était en prison? 
+
+[CARMEN]
+Oui!.. 
+
+[DANCAIRE]
+Je parierais qu'il ne viendra pas. 
+
+[CARMEN]
+Ne parie pas, tu perdrais... 
+
+//(On entend dans le lointain 
+//la voix de don José)
+
+## Scène Quatrième
+
+### Nº15 🎵 Chanson
+
+[DON JOSÉ] 
+// la voix très éloigné
+Halte-là!
+Qui va là?
+Dragon d'Alcalá!
+Où t'en vas-tu par là,
+dragon d'Alcalá?
+Moi, je m'en vais faire,
+mordre la poussière
+à mon adversaire.
+S'il en est ainsi,
+passez, mon ami.
+Affaire d'honneur,
+affaire de coeur,
+pour nous 
+tout est là,
+dragons d'Alcalá!
+
+//(Carmen, le Dancaïre, le Remendado,
+//Mercédès et Frasquita, par les volets
+//entr'ouverts, regardent venir don José.
+
+[MERCÉDÈS]
+C'est un dragon, ma foi. 
+
+[FRASQUITA]
+Et un beau dragon. 
+
+[DANCAIRE]
+// à Carmen
+Tu devrais décider ton dragon à venir 
+avec toi et à se joindre à nous. 
+
+[CARMEN]
+Ah!.. si cela se pouvait!.. 
+Mais il est trop niais. 
+
+[DANCAIRE]
+Pourquoi l'aimes-tu encore?
+
+[CARMEN]
+Parce qu'il est joli garçon donc 
+et qu'il me plaît. 
+
+//(Remendado, Frasquita Mercédès et
+//Dancaire sortent)
+
+Chanson 
+
+[DON JOSÉ]
+// la voix se rapproche peu à peu
+Halte-là! 
+Qui va là?
+Dragon d'Alcala!
+Où t'en vas-tu par là,
+dragon d'Alcala?
+Exact et fidèle,
+je vais où m'appelle
+l'amour de me belle!
+S'il en est ainsi,
+passez, mon ami.
+Affaire d'honneur,
+affaire de coeur,
+pour nous 
+tout est là,
+dragons d'Alcalá!
+
+// Entre don José.
+
+## Scène Cinquième
+
+[CARMEN]
+Enfin... te voilà... C'est bien heureux. 
+
+[DON JOSÉ]
+Il y a deux heures seulement 
+que je suis sorti de prison. 
+
+[CARMEN] 
+Tu m'en veux alors et tu regrettes 
+de t'être fait mettre en prison 
+pour mes beaux yeuxs? 
+
+[DON JOSÉ]
+No...
+
+[CARMEN]
+Parce que tu m'aimes? 
+
+[DON JOSÉ]
+Parce que je t'adore. 
+
+[CARMEN] 
+// mettant ses mains dans les mains de José
+Je paie mes dettes... 
+c'est notre loi à nous autre bohémiennes... 
+
+[DON JOSÉ]
+Carmen!
+
+[CARMEN]
+Ton lieutenant était ici tout à l'heure, 
+avec d'autres officiers, 
+ils nous ont fait danser la Romalis... 
+
+[DON JOSÉ]
+Tu as dansé? 
+
+[CARMEN]
+Oui,.. Est-ce que tu serais jaloux?.. 
+
+[DON JOSÉ]
+Mais certainement, je suis jaloux... 
+
+[CARMEN]
+Eh bien, si tu le veux, 
+je danserai pour toi maintenant, 
+pour toi tout seul. 
+
+### Nº16 🎵 Duo
+
+[CARMEN] 
+// avec une solennité comique
+Je vais danser en votre honneur,
+et vous verrez, seigneur,
+comment je fais moi-même
+accompagner ma danse!
+Mettez-vous là, Don José; 
+je commence!
+
+// Elle fait asseoir Don José
+
+La la la...
+
+//(Carmen danse et s accompagne avec ses
+//castagnettes. Don José la dévore des yeux.
+//On entend au loin, des clairons qui sonnent
+//la retraite) 
+
+[DON JOSÉ]
+Attends un peu, Carmen,
+rien qu'un moment... arrête! 
+
+[CARMEN] 
+// étonnée
+Et pourquoi, s'il te plaît? 
+
+[DON JOSÉ]
+Il me semble... là-bas...
+Oui, ce sont nos clairons 
+qui sonnent la retraite.
+
+// Les clairons se rapprochent
+
+Ne les entends-tu pas? 
+
+[CARMEN] 
+// avec entrain
+Bravo! j'avais beau faire;... 
+il est mélancolique
+de danser sans orchestre... 
+Et vive la musique
+qui nous tombe du ciel! 
+La, la, la...
+
+//(Elle reprend sa chanson qui se rythme 
+//sur la retraite sonnée au dehors par les
+//clairons. Carmen se remet à danser et 
+//Don José se remet à regarder Carmen. La
+//retraite approche... approche... approche...
+//passe sous les fenêtres de l'auberge... puis
+//s'éloigne...)
+
+[DON JOSÉ]
+Tu ne m'a pas compris. Carmen... 
+c'est la retraite! Il faut que moi, 
+je rentre au quartier pour l'appel! 
+
+[CARMEN] 
+// stupéfaite
+Au quartier!.. 
+pour l'appel!..
+Ah! j'étais vraiment trop bête!
+Je me mettais en quatre 
+et je faisais des frais,
+pour amuser monsieur! 
+Je chantais! je dansais!
+Je crois, Dieu me pardonne,
+qu'un peu plus, je l'aimais!
+Ta ra ta ta... c'est le clairon qui sonne!
+Ta ra ta ta... Il part... 
+il est parti!
+Va-t'en donc, canari!
+Tiens! prends ton shako, 
+ton sabre, ta giberne,
+et va-t'en, mon garçon, ve t'en!
+Retourne à ta caserne! 
+
+[DON JOSÉ]
+// avec tristesse
+C'est mal à toi, Carmen, 
+de te moquer de moi!
+Je souffre de partir...
+car jamais, jamais femme,
+jamais femme avant toi, 
+aussi profondément n'avait 
+troublé mon âme! 
+
+[CARMEN] 
+// en exagérant le ton passionné de don José
+Il souffre de partir, car jamais, 
+Jamais femme, jamais femme 
+avant moi, aussi avant moi
+aussi profondément 
+n'avait troublé son âme!
+Ta ra ta ta... mon Dieu! 
+c'est la retraite!
+Ta ra ta ta... je vais être en retard.
+Il perd la tête! il court!
+Et voilà son amour! 
+
+[DON JOSÉ]
+Ainsi tu ne crois pas à mon amour? 
+
+[CARMEN]
+Mais non! 
+
+[DON JOSÉ]
+Eh bien! tu m'entendras! 
+
+[CARMEN]
+Je ne veux rien entendre! 
+
+[DON JOSÉ]
+Tu m'entendras! 
+
+[CARMEN]
+Tu vas te faire attendre!
+Non! non! non! non!
+
+//(De la main gauche, il a saisi brusquement
+//le bras de Carmen; de la main droite, il va
+//chercher sous sa veste d'uniforme la fleur
+//de cassie que Carmen lui a jetée au premier
+//acte. Il montre cette fleur à Carmen)
+
+[DON JOSÉ]
+La fleur que tu m'avais jetée
+dans ma prison m'était restée,
+flétrie et sèche, cette fleur
+gardait toujours sa douce odeur;
+et pendant des heures entières,
+sur mes yeux, 
+fermant mes paupières,
+de cette odeur je m'enivrais
+et dans la nuit je te voyais!
+Je me prenais à te maudire,
+à te détester, à me dire:
+pourquoi faut-il que le destin
+l'ait mise là sur mon chemin!
+Puis je m'accusais de blasphème,
+et je ne sentais en moi-même,
+qu'un seul désir, un seul espoir:
+te revoir, ô Carmen, oui,
+te revoir!
+Car tu n'avais eu qu'à paraître,
+qu'à jeter un regard sur
+moi pour t'emparer 
+de tout mon être,
+ô ma Carmen!
+Et j'étais une chose à toi!
+Carmen, je t'aime!
+
+[CARMEN]
+Non! tu ne m'aimes pas!
+
+[DON JOSÉ]
+Que dis-tu?
+
+[CARMEN]
+Non! tu ne m'aimes pas! Non!
+Car si tu m'aimais,
+là-bas, là-bas tu me suivrais!
+
+[DON JOSÉ]
+Carmen!
+
+[CARMEN]
+Oui! Là-bas, là-bas dans la montagne!
+là-bas, là-bas tu me suivrais!
+Sur ton cheval tu me prendrais,
+et comme un brave 
+à travers la campagne,
+en croupe, tu m'emporterais!
+Là-bas, là-bas dans la montagne.
+
+[DON JOSÉ] 
+// troublé
+Carmen!
+
+[CARMEN]
+là-bas, là-bas tu me suivrais!
+si tu m'aimais!
+Tu n'y dépendrais de personne;
+point d'officier 
+à qui tu doives obéir,
+et point de retraite qui sonne
+pour dire à l'amoureux 
+qu'il est temps de partir!
+Le ciel ouvert, la vie errante,
+pour pays tout l'univers, 
+et pour loi ta volonté!
+Et surtout 
+la chose enivrante:
+la liberté! la liberté!
+
+[DON JOSÉ]
+Mon Dieu!
+
+[CARMEN]
+Là-bas, là-bas dans la montagne!
+
+[DON JOSÉ] 
+// presque vaincu
+Carmen!
+
+[CARMEN]
+là-bas, là-bas si tu m'aimais.
+
+[DON JOSÉ]
+Tais-toi!
+
+[CARMEN]
+là-bas, là-bas tu me suivrais!
+Sur ton cheval tu me prendrais...
+
+[DON JOSÉ]
+Ah! Carmen, hélas! tais-toi!
+tais-toi! mon Dieu!
+
+[CARMEN]
+Et comme un brave
+à travers la campagne,
+oui, tu m'emporterais, si tu m'aimais!
+
+[DON JOSÉ]
+(s'arrachant brusquement 
+des bras de Carmen)
+Non! je ne veux plus t'écouter!
+Quitter mon drapeau... déserter...
+C'est la honte... 
+c'est l'infamie!...
+Je n'en veux pas!
+
+[CARMEN]
+// durement
+Eh bien! pars!
+
+[DON JOSÉ] 
+// suppliant]
+Carmen, je t'en prie!
+
+[CARMEN]
+Non! je ne t'aime plus! Va! je te hais!
+
+[DON JOSÉ]
+Écoute! Carmen!
+
+[CARMEN]
+Adieu! mais adieu pour jamais!
+
+[DON JOSÉ] 
+// avec douleur
+Eh bien! soit! adieu! adieu pour jamais!
+
+[CARMEN]
+Va-t-en!
+
+[DON JOSÉ]
+Carmen! adieu! adieu pour jamais!
+
+[CARMEN]
+Adieu!
+
+//(Il va en courant vers la porte. Au moment
+//il y arrive, on frappe. Don José s'arrête,
+//silence. On frappe encore.)
+
+## Scène Sixième
+
+### Nº17 🎵 Final
+
+[ZUNIGA] 
+// au dehors
+Holà! Carmen! Holà! Holà! 
+
+[DON JOSÉ]
+Qui frappe? qui vient là? 
+
+[CARMEN]
+Tais-toi... tais-toi! 
+
+[ZUNIGA]
+// faisant sauter la porte
+J'ouvre moi-méme... et j'entre...
+
+// Il voit Don José. À Carmen
+
+Ah! fi! ah! fi! la belle!
+Le choix n'est pas heureux! 
+C'est se mésallier de prendre 
+le soldat quand on a l'officier.
+
+// à don José
+
+Allons, décampe! 
+
+[DON JOSÉ] 
+// calme, mais résolu
+Non! 
+
+[ZUNIGA]
+Si fait! tu partiras. 
+
+[DON JOSÉ]
+Je ne partirai pas. 
+
+[ZUNIGA] 
+// le frappant
+Drôle! 
+
+[DON JOSÉ] 
+// sautant sur son sabre
+Tonnerre!.. 
+Il va pleuvoir des coups! 
+
+// Le lieutenant dégaine à moitié
+
+[CARMEN] 
+// se jetant entre eux deux
+Au diable le jaloux!
+
+// appelant
+
+À moi! à moi! 
+
+//(Le Dancaïre, le Remendado, Mercédès,
+//Frasquita, les Bohémiens paraissent de 
+//tous les côtés. Carmen d'un geste montre le
+//lieutenant aux Bohémiens; le Dancaïre et le
+//Remendado se jettent sur lui, le désarment)
+
+[CARMEN] 
+// à Zuniga d'un ton moqueur
+Bel officier, bel officier, l'amour
+vous joue en ce moment 
+un assez vilain tour!
+Vous arrivez fort mal!
+et nous sommes forcés,
+ne voulant être dénoncés,
+de vous garder au moins... 
+pendant une heure. 
+
+[REMENDADO, DANCAIRE]
+//(à Zuniga, le pistolet à la main,
+//gracieusement)
+Mon cher monsieur!
+nous allons, s'il vous plaît,
+quitter cette demeure;
+Vous viendrez avec nous!
+
+[CARMEN]
+C'est une promenade!
+
+[REMENDADO, DANCAIRE]
+Consentez-vous?
+Répondez, camarade! 
+
+[BOHÉMIENS]
+Répondez, camarade! 
+
+[ZUNIGA]
+Certainement.
+
+// avec ironie
+
+D'autant plus que votre argument
+est un de ceux auxquels 
+on ne résiste guère!
+
+// changeant de ton]
+
+Mais gare à vous plus tard! 
+
+[DANCAIRE]
+La guerre, c'est la guerre!
+En attendant, mon officier,
+passez devant sans vous faire prier! 
+
+[REMENDADO, BOHÉMIENS]
+Passez devant sans vous faire prier! 
+
+// L'officier sort emmené par bohémiens
+
+[CARMEN] 
+// à don José
+Es-tu des nôtres maintenant? 
+
+[DON JOSÉ]
+Il le faut bien! 
+
+[CARMEN]
+Ah! le mot n'est pas galant!
+Mais, qu'importe! 
+Va... tu t'y feras
+quand tu verras
+comme c'est beau, 
+la vie errante!
+Pour pays tout l'univers, 
+et pour loi ta volonté!
+Et surtout, 
+la chose enivrante:
+la liberté! la liberté! 
+
+[TOUS] 
+// excepté don José
+Suis-nous à travers la campagne,
+viens avec nous dans la montagne,
+suis-nous et tu t'y feras, tu t'y feras
+quand tu verras, là-bas,
+comme c'est beau,
+la vie errante, 
+pour pays l'univers,
+et pour loi ta volonté;
+et surtout, la chose enivrante:
+La liberté! La liberté!
+
+[DON JOSÉ] 
+// entraîné
+Ah! ¡La liberté!
+
+[TOUS]
+Le ciel ouvert, la vie errante,
+pour pays tout l'univers,
+pour loi la volonté!
+et surtout, 
+la chose enivrante:
+La liberté! La liberté!
+La vie errante, le ciel ouvert,
+pour pays tout l'univers,
+pour loi la volonté!
+Et surtout, 
+la chose enivrante:
+La liberté! La liberté!
+
+
+# ACTE TROISIÈME
+
+## Scène Première
+
+### Nº18 🎵 Introduction
+
+//(Le rideau se lève sur des rochers. Site
+//pittoresque et sauvage. Solitude complète
+//et nuit noire. Un contrebandier paraît au 
+//haut des rochers, et sonne de la trompe, 
+//puis un autre, puis deux autres, puis vingt
+//autres ça et là, descendant et escaladant
+//des rochers. Des hommes portent de gros
+//ballots sur les épaules.)
+
+[CHOEUR]
+Écoute, compagnon, écoute!
+La fortune est là-bas, là-bas!
+mais prends garde, pendant la route,
+prends garde de faire un faux pas!
+
+[FRASQUITA, MERCÉDÈS, CARMEN, DON JOSÉ, REMENDADO, DANCAIRE]
+Notre métier est bon, 
+mais pour le faire il faut
+avoir une âme forte!
+Et le péril, le péril est en haut,
+il est en bas, il est en haut,
+il est partout, qu'importe!
+Nous allons devant nous
+sans souci du torrent!
+Sans souci de l'orage,
+sans souci du soldat 
+qui là-bas nous attend,
+et nous guette au passage!
+Sans souci 
+nous allons en avant!
+
+[TOUS]
+Écoute, compagnon, écoute!
+La fortune est là-bas, là-bas!
+Mais prends garde, pendant la route,
+prends garde de faire un faux pas!
+
+[DANCAIRE]
+Halte! nous allons nous arrêter ici... 
+ceux qui on sommeil pourront dormir
+pendant une heure... 
+
+## Scène Seconde
+
+(quelques bohémiens allument un feu 
+près duquel Mercédès et Frasquita
+viennent s'asseoir, les autres se couchent)
+
+[DON JOSÉ]
+Voyons, Carmen... faisons la paix. 
+
+[CARMEN]
+Non. 
+
+[DON JOSÉ]
+Tu ne m'aimes plus alors? 
+
+[CARMEN]
+Ce qui est sûr c'est que je t'aime 
+beaucoup moins qu'autrefois... 
+Ce que je veux, c'est être libre 
+et faire ce qui me plaît. 
+
+[DON JOSÉ]
+Tu es le diable, Carmen? 
+
+[CARMEN]
+Oui,... à quoi penses-tu?.. 
+
+[DON JOSÉ]
+A une bonne vielle femme 
+qui croit que je suis encore 
+un honnête homme. 
+
+[CARMEN]
+Ta mère... 
+tu ne ferais pas mal d'aller la retrouver...
+
+[DON JOSÉ]
+Carmen... 
+Si tu me parles encore de nous séparer...
+
+[CARMEN]
+Tu me tuerais, peut-être?..
+
+[DON JOSÉ]
+Tu es le diable, Carmen!... 
+
+[CARMEN]
+Mais oui, je te l'ai déjà dit... 
+
+//(Elle tourne le dos à José et va s'asseoir près 
+//de Mercédès et de Frasquita. Après un instant
+//d'indécision, José s'éloigne à son tour et va 
+//s'étendre sur les rochers. Pendant les dernières 
+//répliques de la scène, Mercédès et Frasquita ont 
+//étalé des cartes devant elles)
+
+### Nº19 🎵 Trio
+
+[FRASQUITA, MERCÉDÈS]
+Mêlons! Coupons!
+Bien! c'est cela!
+Trois cartes ici,
+quatre là!
+Et maintenant, parlez, mes belles,
+de l'avenir, donnez-nous des nouvelles.
+Dites-nous qui nous trahira!
+Dites-nous qui nous aimera!
+Parlez, parlez!
+
+[MERCÉDÈS] 
+Moi, je vois un jeune amoureux
+qui m'aime on ne peut davantage; 
+
+[FRASQUITA]
+Le mien est très riche et très vieux;
+mais il parle de mariage! 
+
+[MERCÉDÈS] 
+// fièrement
+Je me campe sur son cheval
+et dans la montagne il m'entraîne! 
+
+[FRASQUITA]
+Dans un château presque royal,
+le mien m'installe en souveraine! 
+
+[MERCÉDÈS]
+De l'amour à n'en plus finir,
+tous les jours, nouvelles folies! 
+
+[FRASQUITA]
+// avec joie
+De l'or tant que j'en puis tenir,
+des diamants, des pierreries! 
+
+[MERCÉDÈS]
+Le mien devient un chef fameux,
+cent hommes marchent à sa suite! 
+
+[FRASQUITA]
+Le mien... le mien... 
+en croirai-je mes yeux?.. oui... 
+Il meurt!
+
+// avec ivresse
+
+Ah! je suis veuve et j'hérite! 
+
+[FRASQUITA, MERCÉDÈS]
+Ah! Parlez encor, 
+parlez, mes belles,
+de l'avenir, donnez-nous des nouvelles.
+Dites-nous qui nous trahira!
+Dites-nous qui nous aimera!
+Parlez encor! parlez encor!
+
+(Elles recommencent à 
+consulter les cartes)
+
+[FRASQUITA]
+Fortune! 
+
+[MERCÉDÈS]
+Amour! 
+
+[CARMEN]
+Donnez, que j'essaie à mon tour.
+
+// Elle se met à tourner les cartes
+
+Carreau! Pique! La mort!...
+J'ai bien lu!.. moi d'abord...
+Ensuite lui...
+Pour tous les deux la mort!
+En vain, pour éviter 
+les réponses amères,
+en vain tu mêleras!
+Cela ne sert à rien, 
+les cartes sont sincères
+et ne mentiront pas!
+Dans le livre d'en haut 
+si ta page est heureuse,
+mêle et coupe sans peur,
+la carte sous tes doigts 
+se tournera joyeuse,
+t'annonçant le bonheur.
+Mais si tu dois mourir, 
+si le mot redoutable
+est écrit par le sort,
+recommence vingt fois, 
+la carte impitoyable répétera: 
+la mort!
+
+// tournant les cartes
+
+encor!.. encor!.. 
+toujours la mort!
+
+[FRASQUITA, MERCÉDÈS]
+Parlez encor, parlez, mes belles,
+de l'avenir, donnez-nous des nouvelles.
+Dites-nous qui nous trahira!
+Dites-nous qui nous aimera!
+Parlez encor! parlez encor!
+
+[CARMEN]
+Encor! Encor!
+Le désespoir!
+La mort! la mort!
+encor... la mort!
+
+[FRASQUITA]
+Fortune!
+
+[MERCÉDÈS]
+Amour!
+
+[CARMEN]
+Toujours la mort!
+
+[FRASQUITA, MERCÉDÈS, CARMEN]
+Encor! encor!
+
+// Rentrent le Dancaïre et le Remendado
+
+## Scène Troisième
+
+[CARMEN]
+Eh bien?.. 
+
+[DANCAIRE]
+Eh bien, nous avons aperçu 
+trois douaniers qui guardaient la brèche 
+et qui la gardaient bien
+
+[MERCÉDÈS]
+Savez-vous les noms à ces douaniers?.. 
+
+[REMENDADO]
+Eusebio, Perez et Bartolomé... 
+
+[FRASQUITA]
+Eusebio... 
+
+[MERCÉDÈS]
+Perez... 
+
+[CARMEN]
+Et Bartolomé...
+
+// en riant
+
+Nous vous en répondons 
+de vos trois douaniers... 
+
+[DON JOSÉ] 
+// furieux
+Carmen! 
+
+[DANCAIRE]
+// S'adressant à José
+Tu vas nous laisser tranquilles 
+avec ta jalousie... 
+Dans le cas où tu apercevrais quelqu'un, 
+je t'autorise à passer ta colère 
+sur l'indiscret
+En route, les enfants...
+
+
+### Nº20 🎵 Morceau d'Ensemble
+
+[FRASQUITA, MERCÉDÈS, CARMEN, BOHÉMIENNES]
+Quant au douanier, 
+c'est notre affaire!
+Tout comme un autre, 
+il aime à plaire,
+il aime à faire le galant;
+ah! Laissez-nous passer en avant!
+
+[FRASQUITA, MERCÉDÈS, CARMEN, REMENDADO, DANCAIRE, CHOEUR]
+Il aime à plaire!
+
+[FRASQUITA]
+Le douanier sera clément!
+
+[TOUS]
+Il est galant!
+
+[CARMEN]
+Le douanier sera charmant!
+
+[TOUS]
+Il aime à plaire!
+
+[MERCÉDÈS]
+Le douanier sera galant!
+
+[FRASQUITA]
+Oui, le douanier sera même entreprenant!
+
+[FRASQUITA, MERCÉDÈS, CARMEN]
+Oui, le douanier, 
+c'est notre affaire!
+Tout comme un autre, il aime à plaire,
+il aime à faire le galant,
+laissez-nous passer en avant!
+
+[REMENDADO, DANCAIRE, CHOEUR]
+Quant au douanier, 
+c'est leur affaire!
+Tout comme un autre, il aime à plaire!
+Il aime à faire le galant! 
+Laissez-vous passer en avant!
+
+[FRASQUITA, MERCÉDÈS, CARMEN]
+Il ne s'agit pas de bataille;
+non, il s'agit tout simplement
+de se laisser prendre la taille
+et d'écouter un compliment.
+S'il faut aller jusqu'au sourire,
+que voulez-vous! on sourira!
+
+[BOHÉMIENNES]
+Et d'avance, je puis le dire,
+la contrebande passera!
+En avant! marchons! 
+Allons! en avant!
+
+[TOUS]
+Quant au douanier, 
+c'est leur/notre affaire!
+Tout comme un autre, il aime à plaire!
+Il aime à faire le galant! 
+Laissez-vous passer en avant!
+
+//(Tout le monde sort. On voit un homme
+//passer sa tête au-dessus du rocher. 
+//C'est un guide.)
+
+## Scène Quatrième
+
+//(Le Guide s'avance avec précaution, puis
+//fait un signe à Micaëla)
+
+[GUIDE]
+Nous y sommes. 
+
+[MICAËLA] 
+C'est ici. 
+
+[GUIDE]
+Oui, vilain endroit, n'est-ce pas...
+
+[MICAËLA]
+Je ne suis pas facile à effrayer. 
+
+[GUIDE]
+Bien vrai?.. 
+
+[MICAËLA]
+Bien vrai... 
+
+[GUIDE]
+Que tous les saints du paradis 
+vous soient en aide...
+
+// Il sort
+
+## Scène Cinquième
+
+### Nº21 🎵 Air
+
+[MICAËLA]
+Je dis que rien ne m'épouvante,
+je dis, hélas! que je réponds de moi;
+mais j'ai beau faire la vaillante,
+au fond du coeur, 
+je meurs d'effroi!
+Seule en ce lieu sauvage,
+toute seule j'ai peur,
+mais j'ai tort d'avoir peur;
+vous me donnerez du courage,
+vous me protégerez, Seigneur!
+Je vais voir de près cette femme
+dont les artifices maudits
+ont fini par faire un infâme
+de celui que j'aimais jadis!
+Elle est dangereuse... 
+elle est belle!...
+Mais je ne veux pas avoir peur!
+Je parlerai haut devant elle... ah!
+Seigneur, vous me protégerez!
+Je dis que rien ne m'épouvante,
+je dis, hélas! que je réponds de moi;
+mais j'ai beau faire la vaillante,
+au fond du coeur je meurs d'effroi!
+Seule en ce lieu sauvage,
+toute seule j'ai peur,
+mais j'ai tort d'avoir peur;
+vous me donnerez du courage,
+vous me protégerez, Seigneur!
+Protégez moi! O Seigneur!
+
+(elle disparaît derrière les rochers.
+Entre Escamillo)
+
+## Scène Sixième
+
+[DON JOSÉ] 
+// son couteau à la main
+Qui êtes-vous? répondez. 
+
+[ESCAMILLO]
+// très calm
+Eh là... doucement! 
+
+### Nº22 🎵 Duo
+
+[ESCAMILLO]
+Je suis Escamillo, torero de Grenade. 
+
+[DON JOSÉ]
+Escamillo! 
+
+[ESCAMILLO]
+C'est moi! 
+
+[DON JOSÉ] 
+Je connais votre nom.
+Soyez le bienvenu; 
+mais vraiment, camarade,
+vous pouviez y rester. 
+
+[ESCAMILLO]
+Je ne vous dis pas non.
+Mais je suis amoureux, 
+mon cher, à la folie!
+Et celui-là serait un pauvre compagnon
+qui pour voir ses amours 
+ne risquerait sa vie! 
+
+[DON JOSÉ]
+Celle que vous aimez est ici? 
+
+[ESCAMILLO]
+Justement.
+C'est une zingara, mon cher... 
+
+[DON JOSÉ]
+Elle s'appelle? 
+
+[ESCAMILLO]
+Carmen. 
+
+[DON JOSÉ]
+Carmen! 
+
+[ESCAMILLO]
+Carmen. oui, mon cher.
+Elle avait pour amant,
+elle avait pour amant,
+un soldat qui jadis a déserté pour elle; 
+
+[DON JOSÉ] 
+// à part
+Carmen! 
+
+[ESCAMILLO]
+Ils s'adoraient! 
+Mais c'est fini, je crois,
+les amours de Carmen 
+ne durent pas six mois. 
+
+[DON JOSÉ]
+Vous l'aimez cependant! 
+
+[ESCAMILLO]
+Je l'aime,
+oui, mon cher, je l'aime,
+je l'aime à la folie! 
+
+[DON JOSÉ]
+Mais pour nous enlever 
+nos filles de Bohême
+savez-vous bien qu'il faut payer?... 
+
+ESCAMILLO 
+// gaiment
+Soit! on paiera, soit! on paiera. 
+
+[DON JOSÉ] 
+// menaçant
+Et que le prix se paie à coups de navaja! 
+
+[ESCAMILLO]
+// surpris
+À coups de navaja! 
+
+[DON JOSÉ]
+Comprenez-vous? 
+
+[ESCAMILLO]
+Le discours est très net.
+
+// avec une légère teinte d'ironie
+
+Ce déserteur, 
+ce beau soldat qu'elle aime,
+ou du moins qu'elle aimait, 
+c'est donc vous? 
+
+[DON JOSÉ]
+Oui, c'est moi-même! 
+
+[ESCAMILLO]
+J'en suis ravi, mon cher! 
+et le tour est complet! 
+
+[DON JOSÉ]
+Enfin ma colère
+trouve à qui parler,
+le sang, je l'espère,
+va bientôt couler!
+Mettez-vous en garde et veillez sur vous!
+Tant pis pour qui tarde
+à parer les coups!
+
+[ESCAMILLO]
+Quelle maladresse,
+j'en rirais, vraiment!
+Chercher la maîtresse
+et trouver, trouver l'amant!
+Mettez-vous en garde et veillez sur vous!
+Mettez-vous en garde,
+veillez sur vous!
+
+//(Ils se mettent en garde 
+//à une certaine distance)
+
+[ESCAMILLO]
+Je la connais, ta garde navarraise,
+et je te préviens en ami
+qu'elle ne vaut rien.
+
+//(Sans répondre don José 
+//marche sur Escmillo)
+
+À ton aise!
+Je t'aurai du moins averti. 
+
+//(Combat. Le toréro très calme 
+//cherche seulement à se défendre)
+
+[DON JOSÉ]
+Tu m'épargnes, maudit! 
+
+[ESCAMILLO]
+À ce jeu de couteau
+je sui trop fort pour toi! 
+
+[DON JOSÉ]
+Voyons cela! 
+
+//(Rapide et très-vif engagement corps 
+//à corps. José se trouve à la merci du 
+//torero qui ne le frappe pas.)
+
+[ESCAMILLO]
+Tout beau!
+Ta vie est à moi, 
+mais en somme,
+j'ai pour métier 
+de frapper le taureau,
+non de trouer le coeur de l'homme! 
+
+[DON JOSÉ]
+Frappe ou bien meurs! 
+Ceci n'est pas un jeu! 
+
+[ESCAMILLO]
+Soit! 
+Mais au moins, respire un peu! 
+
+[DON JOSÉ, ESCAMILLO]
+En garde! 
+Mettez-vous en garde et veillez sur vous!
+Tant pis pour qui tarde
+à parer les coups!
+
+//(reprise du combat. Le torero glisse et
+//tombe sur le gazon. Don José va le frapper.
+//Entrent Carmen et le Dancaïre se
+//précipitent)
+
+
+### Nº23 🎵 Final
+
+[CARMEN]
+// arrêtant le bras de don José
+Holà! holà! José! 
+
+//(entre Remendado suivi de Frasquita,
+//Mercédès et des contrebandiers)
+
+[ESCAMILLO]
+// se relèvant, à Carmen
+Vrai! j'ai l'âme ravie
+que ce soit vous, Carmen, 
+qui me sauviez la vie! 
+
+[CARMEN]
+Escamillo! 
+
+[ESCAMILLO]
+// à don José
+Quant à toi, beau soldat:
+nous sommes manche 
+à manche et nous jouerons la belle,
+le jour où tu voudras 
+reprendre le combat. 
+
+[DANCAIRE]
+// s'interposant
+C'est bon, c'est bon! plus de querelle!
+Nous, nous allons partir.
+
+// Au toréro
+
+Et toi... et toi l'ami, bonsoir! 
+
+[ESCAMILLO]
+Souffrez au moins qu'avant 
+de vous dire au revoir
+je vous invite tous aux 
+courses de Séville.
+Je compte pour ma part y 
+briller de mon mieux...
+
+// regardant Carmen
+
+Et qui m'aime y viendra!
+
+(À Don José qui fait
+un geste de menace)
+
+L'ami, tiens-toi tranquille!
+J'ai tout dit...
+oui, j'ai tout dit...
+et je n'ai plus ici 
+qu'à faire mes adieux!... 
+
+(Le torero sort très-lentement. Don José
+veut s'élancer sur lui, Le Dancaïre et le
+Remendado le retiennent)
+
+[DON JOSÉ] 
+(à Carmen, menaçant, 
+mais contenu)
+Prends garde à toi... Carmen, 
+je suis las de souffrir! 
+
+(Carmen lui répond par un léger mouvement 
+d'épaules et s'éloigne de lui)
+
+[DANCAIRE]
+En route, en route, il faut partir! 
+
+[CHOEUR]
+En route, en route, il faut partir! 
+
+[REMENDADO]
+Halte! 
+quelqu'un est là 
+qui cherche à se cacher.
+
+// Il amène Micaëla
+
+[CARMEN]
+Une femme! 
+
+[DANCAIRE]
+Pardieu! la surprise est heureuse! 
+
+[DON JOSÉ] 
+// reconnaissant Micaëla
+Micaëla! 
+
+[MICAËLA]
+Don José! 
+
+[DON JOSÉ]
+Malheureuse!
+Que viens-tu faire ici? 
+
+[MICAËLA]
+Moi! je viens te chercher!
+Là-bas est la chaumière
+où sans cesse priant,
+une mère, ta mère,
+pleure, hélas! sur son enfant!
+Elle pleure et t'appelle,
+elle pleure et te tend les bras!
+Tu prendras pitié d'elle,
+José, ah! José, tu me suivras! 
+
+[CARMEN] 
+// à Don José, martelé
+Va-t'en, va-t'en, tu feras bien,
+notre métier ne te vaut rien! 
+
+[DON JOSÉ]
+// à Carmen
+Tu me dis de la suivre! 
+
+[CARMEN]
+Oui, tu devrais partir! 
+
+[DON JOSÉ]
+Tu me dis de la suivre...
+pour que toi tu puisses courir
+après ton nouvel amant!
+Non! non vraiment!
+
+// résolument]
+
+Dût-il m'en coûter la vie,
+non, Carmen, je ne partirai pas!
+Et la chaîne qui nous lie
+nous liera jusqu'au trépas!...
+
+[MICAËLA]
+Écoute-moi, je t'en prie,
+ta mère te tend les bras!
+Cette chaîne qui te lie,
+José, tu la briseras!
+
+[FRASQUITA, MERCÉDÈS, REMENDADO, DANCAIRE, CHOEUR]
+Il t'en coûtera la vie,
+José, si tu ne pars pas,
+et la chaîne qui vous lie
+se rompra par ton trépas!
+
+[DON JOSÉ] 
+// à Micaëla
+Laisse-moi!
+
+[MICAËLA]
+Hélas! José!
+
+[DON JOSÉ]
+Car je suis condamné!
+
+[FRASQUITA, MERCÉDÈS, REMENDADO, DANCAIRE, CHOEUR]
+José! prends garde!
+
+[DON JOSÉ] 
+// à Carmen avec emportement
+Ah! 
+Je te tiens, fille damnée!
+Je te tiens, et je te forcerai bien
+a subir la destinée
+qui rive ton sort au mien!
+Dût-il m'en coûter la vie,
+non, non, non, je ne partirai pas!
+
+[FRASQUITA, MERCÉDÈS, REMENDADO, DANCAIRE, CHOEUR]
+Ah! prends garde, prends garde, Don José!
+
+[MICAËLA] 
+// avec autorité
+Une parole encore;
+
+// tristement
+
+ce sera la dernière!
+Ta mère, hélas!
+ta mère se meurt... et ta mère
+ne voudrait pas mourir 
+sans t'avoir pardonné!
+
+[DON JOSÉ]
+Ma mère! elle se meurt!
+
+[MICAËLA]
+Oui, Don José!
+
+[DON JOSÉ]
+Partons! ah! partons!
+
+// À Carmen
+
+Sois contente... je pars... 
+mais... nous nous reverrons! 
+
+// On entend le torero
+
+[ESCAMILLO]
+// au loin
+Toréador, en garde!
+Toréador! Toréador!
+Et songe bien, oui, songe en combattant
+qu'un oeil noir te regarde
+et que l'amour t'attend,
+Toréador, l'amour, l'amour t'attend!
+Toréador, l'amour t'attend, 
+
+[DON JOSÉ]
+Micaëla, partons!
+
+//(Les Bohémiens ont pris leurs 
+//ballots et se mettent en marche)
+
+
+## Deuxième Tableau
+
+//(Une place à Séville. L'entrée du cirque est
+//fermée par un long velum. C'est le jour d'un
+//combat de taureaux. Grand mouvement sur
+//la place)
+
+## Scène Première
+
+### Nº24 🎵 Choeur
+
+[MARCHANDS]
+À deux cuartos! À deux cuartos!
+Des éventails pour s'éventer!
+Des oranges pour grignotter!
+Le programme avec les détails!
+Du vin! De l'eau! Des cigarettes!
+Séñoras et Caballeros! 
+
+//(Pendant le choeur, paraissent Zuniga 
+//et Andrès avec Mercédès et Frasquita)
+
+[ZUNIGA] 
+// aux marchandes
+Des oranges... vite.
+
+[PLUSIEURS MARCHANDES]
+En voici...
+Prenez, prenez, mesdemoiselles. 
+
+[UNE MARCHANDE]
+// à l'officier qui paie
+Merci, mon officier, merci!
+
+[MARCHANDES]
+// à Zuniga
+Celles-ci, séñor, sont plus belles!
+
+[MARCHANDES]
+Des éventails pour s'éventer!
+Des oranges pour grignoter!
+Le programme avec les détails!
+Du vin! De l'eau! Des cigarettes!
+
+[ANDRÈS]
+Holà! des éventails!
+
+[UN BOHÉMIEN]
+Voulez-vous aussi des lorgnettes? 
+
+[MARCHANDES]
+À deux cuartos! Voyez! 
+Séñoras et Caballeros!
+Voyez! voyez!
+
+[ZUNIGA]
+Qu'avez-vous donc fait de la Carmencita? 
+Je ne la vois pas. 
+
+[FRASQUITA]
+Nous la verrons tout à l'heure... 
+Escamillo est ici, 
+la Carmencita ne doit pas être loin.
+
+[ANDRÈS]
+Ah! c'est Escamillo, maintenant?.. 
+
+[MERCÉDÈS]
+Elle en est folle... 
+
+[FRASQUITA]
+Et son ancien amoureux José, 
+sait-on ce qu'il est devenu? 
+
+[ZUNIGA]
+Il a reparu dans le village 
+où sa mère habitait... 
+l'ordre avait même été donné de l'arrêter,
+mais quand les soldats sont arrivés, 
+José n'était plus là... 
+
+[MERCÉDÈS]
+En sorte qu'il est libre? 
+
+[ZUNIGA]
+Oui, pour le moment. 
+
+[FRASQUITA]
+Hum! je ne serais pas tranquille 
+à la place de Carmen, 
+je ne serais pas tranquille du tout. 
+
+### Nº25 🎵 Choeur et Scène
+
+[ENFANTS]
+// au dehors
+Les voici, les voici,
+voici la quadrille! 
+
+// Entrée des enfants
+
+[ENFANTS, CHOEUR]
+Les voici! voici la quadrille,
+la quadrille des toreros.
+Sur les lances, le soleil brille!
+En l'air toques et sombreros!
+Les voici, voici la quadrille,
+la quadrille des toreros!
+
+(Défilé de la quadrille. Entrée 
+des alguazils)
+
+Voici, débouchant sur la place,
+voici d'abord, marchant au pas,
+l'alguazil à vilaine face.
+À bas! à bas! à bas! à bas!
+
+// Entrée des chulos
+
+Et puis saluons au passage,
+saluons les hardis chulos!
+Bravo! viva! gloire au courage!
+Voici les hardis chulos! 
+
+//entrée des banderillos
+
+Voyez les banderilleros,
+voyez quel air de crânerie!
+Voyez quels regards, et de quel éclat
+étincelle la broderie
+de leur costume de combat!
+Voici les Banderilleros! 
+
+// Entrée des picadors
+
+Une autre quadrille s'avance!
+Voyez les picadors! 
+Comme ils sont beaux!
+Comme ils vont du fer de leur lance
+harceler le flanc des taureaux!
+L'Espada! Escamillo!
+
+//(Paraît enfin Escamillo ayant près 
+//de lui Carmen radieuse et dans un 
+//costume éclatant)
+
+C'est l'Espada, la fine lame,
+celui qui vient terminer tout,
+qui paraît à la fin du drame
+et qui frappe le dernier coup!
+Vive Escamillo!
+Ah! Bravo!
+Les voici, voici la quadrille,
+la quadrille des toreros!
+Sur les lances, le soleil brille!
+en l'air toques et sombreros!
+Les voici, voici la quadrille,
+la quadrille des toreros!
+Escamillo! Bravo!
+Vive Escamillo! Ah!
+Bravo! Vive! Bravo!
+
+[ESCAMILLO]
+// à Carmen
+Si tu m'aimes, Carmen,
+tu pourras, tout à l'heure,
+être fière de moi!
+
+[CARMEN]
+Ah! je t'aime, Escamillo, 
+je t'aime, et que je meure
+si j'ai jamais aimé quelqu'un autant que toi!
+
+[CARMEN, ESCAMILLO]
+Ah! je t'aime!
+Oui, je t'aime!
+
+//(Paraissent deux trompettes 
+//suivis de quatre alguazils)
+
+[ALGUAZILS]
+Place! place! place au seigneur Alcade!
+
+[ENFANTS]
+L'alcade!
+
+[CHOEUR]
+Pas de bousculade!
+Regardons passer et se prélaser
+notre aimable alcade!
+
+[ALGUAZILS]
+Place! place! place au seigneur Alcade! 
+
+[FRASQUITA]
+Carmen, un bon conseil... 
+ne reste pas ici. 
+
+[CARMEN]
+Et pourquoi, s'il te plaît? 
+
+[MERCÉDÈS]
+Il est là... 
+
+[CARMEN]
+Qui donc? 
+
+[MERCÉDÈS]
+Lui!... Don José! 
+Dans la foule il se cache, 
+regarde... 
+
+[CARMEN]
+Oui, je le vois. 
+
+[FRASQUITA]
+Prends garde! 
+
+[CARMEN]
+Je ne suis pas femme à trembler devant lui...
+Je l'attends et je vais lui parler. 
+
+[MERCÉDÈS]
+Carmen, crois-moi, prends garde! 
+
+[CARMEN]
+Je ne crains rien! 
+
+[FRASQUITA]
+Prends garde! 
+
+//(L'Alcade est entré dans le cirque. Derrière
+//l'alcade, le cortège de la quadrille reprend
+//sa marche et entre dans le cirque. Le
+//populaire suit et la foule en se retirant 
+//a dégagé don José. Carmen et don José
+//restent seules, en présence l'un de l'autre.
+
+
+## Scène Seconde
+
+### Nº26 🎵 Duo final
+
+[CARMEN]
+C'est toi! 
+
+[DON JOSÉ]
+C'est moi! 
+
+[CARMEN]
+L'on m'avait avertie que tu n'étais pas loin,
+que tu devais venir; l'on m'avait même dit 
+de craindre pour ma vie;
+mais je suis brave! je n'ai pas voulu fuir! 
+
+[DON JOSÉ]
+Je ne menace pas! 
+j'implore... je supplie!
+Notre passé, Carmen, je l'oublie!...
+Oui, nous allons tous deux
+commencer une autre vie,
+loin d'ici, sous d'autres cieux! 
+
+[CARMEN]
+Tu demandes l'impossible!
+Carmen jamais n'a menti!
+Son âme reste inflexible;
+entre elle et toi... c'est fini!
+Jamais je n'ai menti!
+entre nous c'est fini! 
+
+[DON JOSÉ]
+Carmen, il est temps encore,
+O ma Carmen, laisse-moi
+te sauver, toi que j'adore,
+et me sauver avec toi! 
+
+[CARMEN]
+Non! je sais bien que c'est l'heure,
+je sais bien que tu me tueras;
+mais que je vive ou que je meure,
+non, non, non, je ne te céderai pas!
+
+[DON JOSÉ]
+Ah! il est temps encore...
+oui, il est temps encore...
+O ma Carmen, laisse-moi
+te sauver, toi que j'adore!
+et me sauver avec toi...
+
+[CARMEN]
+Pourquoi t'occuper encore
+d'un coeur qui n'est plus à toi!
+En vain tu dis: je t'adore!
+Tu n'obtiendras rien, non, rien de moi,
+ah! c'est en vain...
+
+[DON JOSÉ]
+// avec anxiété
+Tu ne m'aimes donc plus?
+
+[CARMEN] 
+// simplement
+Non! je ne t'aime plus. 
+
+[DON JOSÉ] 
+// avec passion
+Mais moi, Carmen, je t'aime encore,
+Carmen, hélas! moi, je t'adore!
+
+[CARMEN]
+A quoi bon tout cela? 
+Que de mots superflus! 
+
+[DON JOSÉ]
+Carmen, je t'aime, je t'adore!
+Eh bien! S'il le faut, pour te plaire,
+je resterai bandit... 
+tout ce que tu voudras...
+Tout! tu m'entends... tout! 
+Mais ne me quitte pas,
+o ma Carmen! 
+souviens-toi du passé! 
+Nous nous aimions, naguère!
+
+//désespéré
+
+Ah! ne me quitte pas, Carmen,
+ah! ne me quitte pas! 
+
+[CARMEN]
+Jamais Carmen ne cédera!
+Libre elle est née et libre elle mourra! 
+
+[CHOEUR]
+// dans le cirque
+Viva! la course est belle!
+Sur le sable sanglant
+le taureau qu'on harcèle
+s'élance en bondissant...
+Frappé juste en plein coeur!
+Viva! Bravo! Victoire!
+
+//(En entendant les cris de victoire, Carmen 
+//a laissé échapper un ``Ah!'' d'orgueil et de
+//joie. Don José ne perd pas Carmen de vue.
+//Carmen fait un pas du côté du cirque. )
+
+[DON JOSÉ] 
+// se plaçant devant elle
+Où vas-tu? 
+
+[CARMEN]
+Laisse-moi. 
+
+[DON JOSÉ]
+Cet homme qu'on acclame,
+c'est ton nouvel amant! 
+
+[CARMEN] 
+// voulant passer
+Laisse-moi... laisse-moi... 
+
+[DON JOSÉ]
+Sur mon âme,
+Tu ne passeras pas,
+Carmen, c'est moi que tu suivras! 
+
+[CARMEN]
+Laisse-moi, don José, je ne te suivrai pas. 
+
+[DON JOSÉ]
+Tu vas le retrouver, dis...
+tu l'aimes donc? 
+
+[CARMEN]
+Je l'aime!
+Je l'aime et devant la mort même,
+je répéterais que je l'aime! 
+
+[CHOEUR]
+// dans le cirque
+Viva! Bravo! Victoire!
+Frappe juste en plein coeur!
+Le taureau tombe! Gloire!
+Gloire au torero vainqueur!
+
+[DON JOSÉ] 
+// avec violence
+Ainsi, le salut de mon âme
+je l'aurai perdu pour que toi,
+pour que tu t'en ailles, infâme,
+entre ses bras rire de moi!
+Non, par le sang, tu n'iras pas!
+Carmen, c'est moi que tu suivras! 
+
+[CARMEN]
+Non, non! jamais! 
+
+[DON JOSÉ]
+Je suis las de te menacer! 
+
+[CARMEN]
+// avec colère
+Eh bien! frappe-moi donc, 
+ou laisse-moi passer. 
+
+[CHOEUR]
+Victoire!
+
+[DON JOSÉ] 
+// éperdu
+Pour la dernière fois, démon,
+veux-tu me suivre? 
+
+[CARMEN]
+Non! non!
+Cette bague, autrefois, 
+tu me l'avais donnée...
+
+// elle la jette à la volée
+
+Tiens!
+
+[DON JOSÉ] 
+// José a frappé Carmen
+Eh bien! damnée!
+
+// Elle tombe morte...
+
+[CHOEUR]
+// dans le cirque
+Victoire! Bravo! Ah!
+
+(don José, éperdu, s'agenouille 
+auprès d'elle)
+
+Toréador, en garde!
+Toréador! Toréador!
+Et songe bien, oui, 
+songe en combattant
+qu'un oeil noir te regarde
+et que l'amour t'attend,
+Toréador, l'amour t'attend! 
+
+//(Le vélum s'ouvre; Escamillo 
+//paraît entouré de la foule qui 
+//l'acclame)
+
+[DON JOSÉ] 
+// se levant
+Vous pouvez m'arréter... 
+c'est moi qui l'ai tuée!
+Ma Carmen adorée! 
+
+//Fin de l'Opéra 
 
