@@ -49,9 +49,9 @@ function construirMenu() {
   const menu = document.getElementById('menu-scroll');
   menu.innerHTML = '';
 
-  // Crear botón "LF" para mostrar todo
+  // Crear botón "💃" para mostrar todo
   const botonTodo = document.createElement('button');
-  botonTodo.textContent = 'LF';
+  botonTodo.textContent = '💃';
   botonTodo.dataset.numero = 'todo'; // Asignar data-numero
   botonTodo.onclick = () => { filtrarPorNumero('todo'); };
   menu.appendChild(botonTodo);
@@ -404,9 +404,9 @@ function navegarADireccion(direccion) {
   let nuevoIndex = direccion === 'anterior' ? indexActual - 1 : indexActual + 1;
 
   if (nuevoIndex < 0) {
-    numeroSeleccionado = 'todo'; // De 1a a LF
+    numeroSeleccionado = 'todo'; // De 1a a 💃
   } else if (nuevoIndex >= ordenNumeros.length) {
-    numeroSeleccionado = 'todo'; // De 14 a LF
+    numeroSeleccionado = 'todo'; // De 14 a 💃
   } else {
     numeroSeleccionado = ordenNumeros[nuevoIndex].id;
   }
