@@ -1,21 +1,14 @@
 # PRELUDE
-
+PRELUDE
 # ACTE PREMIER
-
+ACTE PREMIER
 //(Une place, à Séville. A droite, la porte de la manufacture de tabac. A gauche, au premier plan, le corps de garde. Devant le corps de garde, exhaussée de deux ou trois marches; près du corps de garde, dans un râtelier, les lances des dragons avec leurs banderoles jaunes et rouges.)
 
 ## Scène Première
-
 ### Nº1 🎵 Introduction
 
-//(Au lever du rideau, une quinzaine de
-//soldats, Dragons du régiment d'Alcala, 
-//sont groupés devant le corps de garde. 
-//Les uns assis et fumant, les autres accoudés
-//sur le balustrade de la galerie. Mouvement
-//de passants sur la place. Des gens pressés,
-//affairés, vont, viennent, se rencontrent, se
-//saluent, se bousculent, etc.)
+//(Au lever du rideau, une quinzaine de soldats, Dragons du régiment d'Alcala, sont groupés devant le corps de garde. 
+//Les uns assis et fumant, les autres accoudés sur le balustrade de la galerie. Mouvement de passants sur la place. Des gens pressés, affairés, vont, viennent, se rencontrent, se saluent, se bousculent, etc.)
 
 [SOLDATS]
 Sur la place
@@ -38,12 +31,10 @@ Drôles de gens que ces gens-là!
 [MORALES]
 Drôles de gens!
 
-(Micaëla est entrée, hésitante, 
-embarrassée, elle regarde les 
-soldats avance, recule, etc.)
+//(Micaëla est entrée, hésitante, embarrassée, elle regarde les soldats avance, recule, etc.)
 
 [MORALES]
-// aux soldats
+(aux soldats)
 Regardez donc cette petite
 qui semble vouloir nous parler...
 Voyez! voyez!... elle tourne... elle hésite... 
@@ -52,14 +43,14 @@ Voyez! voyez!... elle tourne... elle hésite...
 A son secours il faut aller! 
 
 [MORALES]
-// à Micaëla, galamment
+(à Micaëla, galamment)
 Que cherchez-vous, la belle? 
 
 [MICAELA]
 Moi, je cherche un brigadier. 
 
 [MORALES]
-// avec emphase
+(avec emphase)
 Je suis là...
 Voilà! 
 
@@ -72,7 +63,7 @@ Don José?
 Nous le connaissons tous. 
 
 [MICAELA]
-// avec joie
+(avec joie)
 Vraiment! 
 Est-il avec vous, je vous prie? 
 
@@ -80,7 +71,7 @@ Est-il avec vous, je vous prie?
 Il n'est pas brigadier dans notre compagnie. 
 
 [MICAELA]
-// désappointée
+(désappointée)
 Alors, il n'est pas là. 
 
 [MORALES]
@@ -94,7 +85,7 @@ Il y sera quand la garde montante
 remplacera la garde descendante. 
 
 [MORALES] 
-// très galant
+(très galant)
 Mais en attendant qu'il vienne,
 voulez-vous, la belle enfant,
 voulez-vous prendre la peine
@@ -107,7 +98,7 @@ Chez vous?
 Chez nous! 
 
 [MICAELA]
-// finement
+(finement)
 Non pas, non pas,
 grand merci, messieurs les soldats. 
 
@@ -128,11 +119,11 @@ Il faut rester, car la garde montante
 va remplacer la garde descendante. 
 
 [MORALES]
-// retenant Micaëla
+(retenant Micaëla)
 Vous resterez! 
 
 [MICAELA]
-// cherchant à se dégager
+(cherchant à se dégager)
 Non pas, non pas! 
 
 [MORALES, SOLDATS]
