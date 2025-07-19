@@ -8,80 +8,83 @@ body {
 }
 
 :root {
-  --color-luisa-fernanda: #f8d7da;
-  --color-vidal: #fff3cd;
-  --color-javier: #d4edda;
-  --color-carolina: #e2d4f5;
-  --color-mariana: #d1f0f0;
-  --color-anibal: #272f7a;
-  --color-nogales: #ffe5b4;
-  --color-don-florito: #f3e5ff;
-  --color-bizco: #ffedcc;
-  --color-rosita: #ffe5ec;
-  --color-saboyano: #cce5ff;
-  --color-coro: #ffffff;
-  --color-narrador: #e0e0e0;
+  --color-carmen: #f8d7da;
+  --color-donjose: #fff3cd;
+  --color-escamillo: #d4edda;
+  --color-micaela: #e2d4f5;
+  --color-morales: #d1f0f0;
+  --color-zuniga: #272f7a;
+  --color-frasquita: #ffe5b4;
+  --color-mercedes: #f3e5ff;
+  --color-dancaire: #ffedcc;
+  --color-remendado: #ffe5ec;
+  --color-lillaspastia: #cce5ff;
+  --color-choeur: #ffffff;
+  --color-guide: #e0e0e0;
 }
 
+
+
 /* GUION */
-.guion-linea.luisa-fernanda strong { background-color: var(--color-luisa-fernanda); }
-.guion-linea.vidal strong          { background-color: var(--color-vidal); }
-.guion-linea.javier strong         { background-color: var(--color-javier); }
-.guion-linea.carolina strong       { background-color: var(--color-carolina); }
-.guion-linea.mariana strong        { background-color: var(--color-mariana); }
-.guion-linea.anibal strong         { background-color: var(--color-anibal); }
-.guion-linea.nogales strong        { background-color: var(--color-nogales); }
-.guion-linea.don-florito strong    { background-color: var(--color-don-florito); }
-.guion-linea.bizco strong          { background-color: var(--color-bizco); }
-.guion-linea.rosita strong         { background-color: var(--color-rosita); }
-.guion-linea.saboyano strong       { background-color: var(--color-saboyano); }
-.guion-linea.coro strong           { background-color: var(--color-coro); }
-.guion-linea.narrador strong       { background-color: var(--color-narrador); }
+.guion-linea.carmen strong        { background-color: var(--color-carmen); }
+.guion-linea.donjose strong       { background-color: var(--color-donjose); }
+.guion-linea.escamillo strong     { background-color: var(--color-escamillo); }
+.guion-linea.micaela strong       { background-color: var(--color-micaela); }
+.guion-linea.morales strong       { background-color: var(--color-morales); }
+.guion-linea.zuniga strong        { background-color: var(--color-zuniga); }
+.guion-linea.choeur strong        { background-color: var(--color-choeur); }
+.guion-linea.frasquita strong     { background-color: var(--color-frasquita); }
+.guion-linea.mercedes strong      { background-color: var(--color-mercedes); }
+.guion-linea.dancaire strong      { background-color: var(--color-dancaire); }
+.guion-linea.remendado strong     { background-color: var(--color-remendado); }
+.guion-linea.lillaspastia strong  { background-color: var(--color-lillaspastia); }
+.guion-linea.guide strong         { background-color: var(--color-guide); }
 
 /* CHAT */
-.chat .bubble.luisa-fernanda { background-color: var(--color-luisa-fernanda); }
-.chat .bubble.vidal          { background-color: var(--color-vidal); }
-.chat .bubble.javier         { background-color: var(--color-javier); }
-.chat .bubble.carolina       { background-color: var(--color-carolina); }
-.chat .bubble.mariana        { background-color: var(--color-mariana); }
-.chat .bubble.anibal         { background-color: var(--color-anibal); }
-.chat .bubble.nogales        { background-color: var(--color-nogales); }
-.chat .bubble.don-florito    { background-color: var(--color-don-florito); }
-.chat .bubble.bizco          { background-color: var(--color-bizco); }
-.chat .bubble.rosita         { background-color: var(--color-rosita); }
-.chat .bubble.saboyano       { background-color: var(--color-saboyano); }
-.chat .bubble.coro           { background-color: var(--color-coro); }
-.chat .bubble.narrador       { background-color: var(--color-narrador); }
+.chat .bubble.carmen         { background-color: var(--color-carmen); }
+.chat .bubble.donjose        { background-color: var(--color-donjose); }
+.chat .bubble.escamillo      { background-color: var(--color-escamillo); }
+.chat .bubble.micaela        { background-color: var(--color-micaela); }
+.chat .bubble.morales        { background-color: var(--color-morales); }
+.chat .bubble.zuniga         { background-color: var(--color-zuniga); }
+.chat .bubble.choeur         { background-color: var(--color-choeur); }
+.chat .bubble.frasquita      { background-color: var(--color-frasquita); }
+.chat .bubble.mercedes       { background-color: var(--color-mercedes); }
+.chat .bubble.dancaire       { background-color: var(--color-dancaire); }
+.chat .bubble.remendado      { background-color: var(--color-remendado); }
+.chat .bubble.lillaspastia   { background-color: var(--color-lillaspastia); }
+.chat .bubble.guide          { background-color: var(--color-guide); }
 
 /* ENSAYO */
-.ensayo-linea.luisa-fernanda { border-color: var(--color-luisa-fernanda); }
-.ensayo-linea.vidal          { border-color: var(--color-vidal); }
-.ensayo-linea.javier         { border-color: var(--color-javier); }
-.ensayo-linea.carolina       { border-color: var(--color-carolina); }
-.ensayo-linea.mariana        { border-color: var(--color-mariana); }
-.ensayo-linea.anibal         { border-color: var(--color-anibal); }
-.ensayo-linea.nogales        { border-color: var(--color-nogales); }
-.ensayo-linea.don-florito    { border-color: var(--color-don-florito); }
-.ensayo-linea.bizco          { border-color: var(--color-bizco); }
-.ensayo-linea.rosita         { border-color: var(--color-rosita); }
-.ensayo-linea.saboyano       { border-color: var(--color-saboyano); }
-.ensayo-linea.coro           { border-color: var(--color-coro); }
-.ensayo-linea.narrador       { border-color: var(--color-narrador); }
+.ensayo-linea.carmen        { border-color: var(--color-carmen); }
+.ensayo-linea.donjose       { border-color: var(--color-donjose); }
+.ensayo-linea.escamillo     { border-color: var(--color-escamillo); }
+.ensayo-linea.micaela       { border-color: var(--color-micaela); }
+.ensayo-linea.morales       { border-color: var(--color-morales); }
+.ensayo-linea.zuniga        { border-color: var(--color-zuniga); }
+.ensayo-linea.choeur        { border-color: var(--color-choeur); }
+.ensayo-linea.frasquita     { border-color: var(--color-frasquita); }
+.ensayo-linea.mercedes      { border-color: var(--color-mercedes); }
+.ensayo-linea.dancaire      { border-color: var(--color-dancaire); }
+.ensayo-linea.remendado     { border-color: var(--color-remendado); }
+.ensayo-linea.lillaspastia  { border-color: var(--color-lillaspastia); }
+.ensayo-linea.guide         { border-color: var(--color-guide); }
 
 /* SIGUE */
-.sigue-linea.luisa-fernanda { border-color: var(--color-luisa-fernanda); }
-.sigue-linea.vidal          { border-color: var(--color-vidal); }
-.sigue-linea.javier         { border-color: var(--color-javier); }
-.sigue-linea.carolina       { border-color: var(--color-carolina); }
-.sigue-linea.mariana        { border-color: var(--color-mariana); }
-.sigue-linea.anibal         { border-color: var(--color-anibal); }
-.sigue-linea.nogales        { border-color: var(--color-nogales); }
-.sigue-linea.don-florito    { border-color: var(--color-don-florito); }
-.sigue-linea.bizco          { border-color: var(--color-bizco); }
-.sigue-linea.rosita         { border-color: var(--color-rosita); }
-.sigue-linea.saboyano       { border-color: var(--color-saboyano); }
-.sigue-linea.coro           { border-color: var(--color-coro); }
-.sigue-linea.narrador       { border-color: var(--color-narrador); }
+.sigue-linea.carmen        { border-color: var(--color-carmen); }
+.sigue-linea.donjose       { border-color: var(--color-donjose); }
+.sigue-linea.escamillo     { border-color: var(--color-escamillo); }
+.sigue-linea.micaela       { border-color: var(--color-micaela); }
+.sigue-linea.morales       { border-color: var(--color-morales); }
+.sigue-linea.zuniga        { border-color: var(--color-zuniga); }
+.sigue-linea.choeur        { border-color: var(--color-choeur); }
+.sigue-linea.frasquita     { border-color: var(--color-frasquita); }
+.sigue-linea.mercedes      { border-color: var(--color-mercedes); }
+.sigue-linea.dancaire      { border-color: var(--color-dancaire); }
+.sigue-linea.remendado     { border-color: var(--color-remendado); }
+.sigue-linea.lillaspastia  { border-color: var(--color-lillaspastia); }
+.sigue-linea.guide         { border-color: var(--color-guide); }
+
 
 header {
   font-family: 'Aladin', cursive;
