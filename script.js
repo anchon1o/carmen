@@ -369,40 +369,11 @@ function parsearBloques(bloque) {
 
 function normalizar(nombre) {
   return nombre
-    .replaceAll('Á', 'A')
-    .replaceAll('À', 'A')
-    .replaceAll('Ä', 'A')
-    .replaceAll('á', 'a')
-    .replaceAll('à', 'a')
-    .replaceAll('ä', 'a')
-    .replaceAll('É', 'E')
-    .replaceAll('È', 'E')
-    .replaceAll('Ë', 'E')
-    .replaceAll('é', 'e')
-    .replaceAll('è', 'e')
-    .replaceAll('ë', 'e')
-    .replaceAll('Í', 'I')
-    .replaceAll('Ì', 'I')
-    .replaceAll('Ï', 'I')
-    .replaceAll('í', 'i')
-    .replaceAll('ì', 'i')
-    .replaceAll('ï', 'i')
-    .replaceAll('Ó', 'O')
-    .replaceAll('Ò', 'O')
-    .replaceAll('Ö', 'O')
-    .replaceAll('ó', 'o')
-    .replaceAll('ò', 'o')
-    .replaceAll('ö', 'o')
-    .replaceAll('Ú', 'U')
-    .replaceAll('Ù', 'U')
-    .replaceAll('Ü', 'U')
-    .replaceAll('ú', 'u')
-    .replaceAll('ù', 'u')
-    .replaceAll('ü', 'u')
-    .replaceAll('Ñ', 'N')
-    .replaceAll('ñ', 'n')
-    .replace(/\s+/g, '')
-    .toLowerCase();
+    .normalize('NFD')                    // separa diacríticos
+    .replace(/[\u0300-\u036f]/g, '')     // elimina diacríticos
+    .replace(/ñ/g, 'n')                  // ñ -> n
+    .replace(/\s+/g, '')                 // elimina espacios
+    .toLowerCase();                      // pasa a minúsculas
 }
 
 
