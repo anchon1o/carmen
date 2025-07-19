@@ -183,11 +183,11 @@ function mostrarVista() {
 
         const renderContenido = (visible) => {
           if (visible) {
-            p.innerHTML = `<strong>${linea.personaje}</strong>:<br>${linea.texto.replace(/\n/g, "<br>")}`;
+            p.innerHTML = `<strong>${linea.personaje}</strong><br>${linea.texto.replace(/\n/g, "<br>")}`;
             p.classList.remove("oculto");
             p.classList.remove("revelado");
           } else {
-            p.innerHTML = `<strong>${linea.personaje}</strong>:<br><em>— intervención oculta —</em>`;
+            p.innerHTML = `<strong>${linea.personaje}</strong><br><em>— intervención oculta —</em>`;
             p.classList.add("oculto");
             p.classList.remove("revelado");
           }
