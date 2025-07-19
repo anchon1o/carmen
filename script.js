@@ -370,11 +370,25 @@ function parsearBloques(bloque) {
 function normalizar(nombre) {
   return nombre
     .toLowerCase()
-    .normalize('NFD')                    // separa letras de sus diacríticos
-    .replace(/[\u0300-\u036f]/g, '')     // elimina diacríticos (acentos, etc.)
-    .replaceAll(' ', '-')                // convierte espacios en guiones
-    .replaceAll('ñ','n');                // reemplaza ñ por n
+    .replaceAll('á', 'a')
+    .replaceAll('à', 'a')
+    .replaceAll('ä', 'a')
+    .replaceAll('é', 'e')
+    .replaceAll('è', 'e')
+    .replaceAll('ë', 'e')
+    .replaceAll('í', 'i')
+    .replaceAll('ï', 'i')
+    .replaceAll('ì', 'i')
+    .replaceAll('ó', 'o')
+    .replaceAll('ò', 'o')
+    .replaceAll('ö', 'o')
+    .replaceAll('ú', 'u')
+    .replaceAll('ù', 'u')
+    .replaceAll('ü', 'u')
+    .replaceAll('ñ', 'n')
+    .replace(/\s+/g, ''); // elimina los espacios
 }
+
 
 
 
