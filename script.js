@@ -7,7 +7,7 @@ let rachaGlobal = 0;
 
 
 async function cargarTexto() {
-  const resp = await fetch('texto.txt');
+  const resp = await fetch('carmen.txt');
   const texto = await resp.text();
   const lineas = texto.split('\n');
 
