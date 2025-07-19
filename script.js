@@ -370,11 +370,12 @@ function parsearBloques(bloque) {
 function normalizar(nombre) {
   return nombre
     .toLowerCase()
-    .normalize('NFD')                    // descompone caracteres acentuados
-    .replace(/[\u0300-\u036f]/g, '')     // elimina marcas diacríticas
+    .normalize('NFD')                    // separa letras de sus diacríticos
+    .replace(/[\u0300-\u036f]/g, '')     // elimina diacríticos (acentos, etc.)
     .replaceAll(' ', '-')                // convierte espacios en guiones
-    .replaceAll('ñ','n');                // reemplaza la ñ
+    .replaceAll('ñ','n');                // reemplaza ñ por n
 }
+
 
 
 const videos = {
