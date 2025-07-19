@@ -368,8 +368,14 @@ function parsearBloques(bloque) {
 }
 
 function normalizar(nombre) {
-  return nombre.toLowerCase().replaceAll(' ', '-').replaceAll('ñ','n');
+  return nombre
+    .toLowerCase()
+    .normalize('NFD')                    // descompone caracteres acentuados
+    .replace(/[\u0300-\u036f]/g, '')     // elimina marcas diacríticas
+    .replaceAll(' ', '-')                // convierte espacios en guiones
+    .replaceAll('ñ','n');                // reemplaza la ñ
 }
+
 
 const videos = {
   R: "Ol7eh5jkHKE",
