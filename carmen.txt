@@ -35,14 +35,14 @@ chacun passe,
 chacun vient, chacun va;
 Drôles de gens que ces gens-là!
 
-[MORALÈS]
+[MORALES]
 Drôles de gens!
 
 (Micaëla est entrée, hésitante, 
 embarrassée, elle regarde les 
 soldats avance, recule, etc.)
 
-[MORALÈS]
+[MORALES]
 // aux soldats
 Regardez donc cette petite
 qui semble vouloir nous parler...
@@ -51,100 +51,100 @@ Voyez! voyez!... elle tourne... elle hésite...
 [SOLDATS]
 A son secours il faut aller! 
 
-[MORALÈS]
+[MORALES]
 // à Micaëla, galamment
 Que cherchez-vous, la belle? 
 
-[MICAËLA]
+[MICAELA]
 Moi, je cherche un brigadier. 
 
-[MORALÈS]
+[MORALES]
 // avec emphase
 Je suis là...
 Voilà! 
 
-[MICAËLA]
+[MICAELA]
 Mon brigadier, à moi, s'appelle
 Don José... le connaissez-vous? 
 
-[MORALÈS]
+[MORALES]
 Don José? 
 Nous le connaissons tous. 
 
-[MICAËLA]
+[MICAELA]
 // avec joie
 Vraiment! 
 Est-il avec vous, je vous prie? 
 
-[MORALÈS]
+[MORALES]
 Il n'est pas brigadier dans notre compagnie. 
 
-[MICAËLA]
+[MICAELA]
 // désappointée
 Alors, il n'est pas là. 
 
-[MORALÈS]
+[MORALES]
 Non, ma charmante, il n'est pas là.
 Mais tout à l'heure il y sera,
 Il y sera quand la garde montante
 remplacera la garde descendante, 
 
-[MORALÈS, SOLDATS]
+[MORALES, SOLDATS]
 Il y sera quand la garde montante
 remplacera la garde descendante. 
 
-[MORALÈS] 
+[MORALES] 
 // très galant
 Mais en attendant qu'il vienne,
 voulez-vous, la belle enfant,
 voulez-vous prendre la peine
 d'entrer chez nous un instant? 
 
-[MICAËLA]
+[MICAELA]
 Chez vous? 
 
-[MORALÈS, SOLDATS]
+[MORALES, SOLDATS]
 Chez nous! 
 
-[MICAËLA]
+[MICAELA]
 // finement
 Non pas, non pas,
 grand merci, messieurs les soldats. 
 
-[MORALÈS]
+[MORALES]
 Entrez sans crainte, mignonne,
 je vous promets qu'on aura,
 pour votre chère personne,
 tous les égards qu'il faudra. 
 
-[MICAËLA]
+[MICAELA]
 Je n'en doute pas, cependant
 je reviendrai, c'est plus prudent!
 Je reviendrai quand la garde montante
 remplacera la garde descendante,
 
-[MORALÈS, SOLDATS]
+[MORALES, SOLDATS]
 Il faut rester, car la garde montante
 va remplacer la garde descendante. 
 
-[MORALÈS]
+[MORALES]
 // retenant Micaëla
 Vous resterez! 
 
-[MICAËLA]
+[MICAELA]
 // cherchant à se dégager
 Non pas, non pas! 
 
-[MORALÈS, SOLDATS]
+[MORALES, SOLDATS]
 Vous resterez! 
 
-[MICAËLA]
+[MICAELA]
 Non pas, non pas!
 Au revoir, messieurs les soldats!
 
 // Elle s'échappe et se sauve en courant
 
-[MORALÈS]
+[MORALES]
 L'oiseau s'envole...
 on s'en console!..
 Reprenons notre passe-temps
@@ -156,7 +156,7 @@ chacun passe,
 chacun vient, chacun va;
 Drôles de gens que ces gens-là!
 
-[MORALÈS]
+[MORALES]
 Drôles de gens!
 
 
@@ -197,7 +197,7 @@ Ta ra ta ta ta ra ta ta....
 [ZUNIGA]
 Halte! Repos! 
 
-[MORALÈS]
+[MORALES]
 // à don José
 Il y a une jolie fille 
 qui est venue te demander. 
@@ -206,7 +206,7 @@ Elle a dit qu'elle reviendrait...
 [DON JOSÉ]
 Une jolie fille?.. 
 
-[MORALÈS]
+[MORALES]
 Oui, et gentiment habillée: 
 une jupe bleue, 
 des nattes tombant sur les épaules... 
@@ -215,7 +215,7 @@ des nattes tombant sur les épaules...
 C'est Micaëla! 
 Ce ne peut être que Micaëla. 
 
-[MORALÈS]
+[MORALES]
 Elle n'a pas dit son nom. 
 
 [ZUNIGA]
@@ -334,7 +334,7 @@ mine coquette!
 Fumant toutes, du bout des dents,
 la cigarette. 
 
-[CIGARIÈRES]
+[CIGARIERES]
 Dans l'air, nous suivons des yeux
 la fumée,
 qui vers les cieux
@@ -361,7 +361,7 @@ Sans faire les cruelles,
 ô vous que nous adorons,
 que nous idolâtrons!
 
-[CIGARIÈRES] 
+[CIGARIERES] 
 // reprennent en riant
 Le doux parler 
 des amants
@@ -418,7 +418,7 @@ Mais pas aujourd'hui... c'est certain.
 
 ### Nº4 🎵 Havanaise
 
-[[CARMEN], CHOEUR]
+[CARMEN, CHOEUR]
 L'amour est un oiseau rebelle
 que nul ne peut apprivoiser,
 et c'est bien en vain qu'on l'appelle,
@@ -445,7 +445,7 @@ l'amour! l'amour!
 
 ## Scène Sixième
 
-### Nº6 🎵 Scène
+### Nº5 🎵 Scène
 
 [JEUNES GENS]
 Carmen! sur tes pas 
@@ -462,7 +462,7 @@ au moins réponds-nous!
 //la fleur de cassie et la lance à don José. 
 //Il se lève brusquement.)
 
-[CIGARIÈRES]
+[CIGARIERES]
 // riant entre elles
 L'amour est enfant de Bohème,
 il n'a jamais connu de loi,
@@ -495,14 +495,14 @@ cette fille-là en est une.
 
 ## Scène Septième
 
-[MICAËLA]
+[MICAELA]
 José!
 
 [DON JOSÉ]
 // cachant précipitamment la fleur de cassie
 Micaëla!.. c'est toi... 
 
-[MICAËLA]
+[MICAELA]
 C'est moi!...
 C'est votre mère qui m'envoie... 
 
@@ -512,7 +512,7 @@ C'est votre mère qui m'envoie...
 // ému
 Parle-moi de ma mère! 
 
-[MICAËLA] 
+[MICAELA] 
 J'apporte de sa part, fidèle messagère,
 cette lettre... 
 
@@ -520,7 +520,7 @@ cette lettre...
 // joyeux, regardant la lettre
 Une lettre! 
 
-[MICAËLA]
+[MICAELA]
 Et puis un peu d'argent,
 
 // Elle lui remet une petite bourse
@@ -534,7 +534,7 @@ Et puis...
 [DON JOSÉ]
 Et puis?... 
 
-[MICAËLA]
+[MICAELA]
 Et puis... vraiment je n'ose...
 Et puis... encore une autre chose
 qui vaut mieux que l'argent! 
@@ -545,7 +545,7 @@ aura sans doute plus de prix.
 Cette autre chose, quelle est-elle?
 Parle donc... 
 
-[MICAËLA]
+[MICAELA]
 Oui, je parlerai.
 Ce que l'on m'a donné, 
 je vous le donnerai.
@@ -571,7 +571,7 @@ de ma part tu le lui rendras."
 // très ému
 Un baiser de ma mère? 
 
-[MICAËLA]
+[MICAELA]
 Un baiser pour son fils!... 
 José, je vous le rends 
 comme je l'ai promis! 
@@ -589,7 +589,7 @@ O souvenirs chéris!
 Souvenirs d'autrefois! 
 Souvenirs du pays!
 
-[MICAËLA]
+[MICAELA]
 Sa mère, il la revoit! 
 Il revoit son village!
 O souvenirs d'autrefois! 
@@ -608,7 +608,7 @@ et ce baiser qu'elle m'envoie,
 écarte le péril 
 et sauve son enfant! 
 
-[MICAËLA] 
+[MICAELA] 
 Quel démon? quel péril? 
 je ne comprends pas bien...
 Que veut dire cela? 
@@ -618,7 +618,7 @@ Rien! rien!
 Parlons de toi, la messagère;
 Tu vas retourner au pays? 
 
-[MICAËLA]
+[MICAELA]
 Oui, ce soir même... 
 demain je verrai votre mère. 
 
@@ -639,7 +639,7 @@ de ma part, tu le lui rendras!
 
 // Il l'embrasse
 
-[MICAËLA] 
+[MICAELA] 
 Oui, je vous le promets... 
 de la part de son fils,
 José, je le rendrai, comme je l'ai promis. 
@@ -656,7 +656,7 @@ O souvenirs chéris!
 Vous me rendez tout mon courage
 ô souvenirs du pays!
 
-[MICAËLA]
+[MICAELA]
 Sa mère, il la revoit! 
 Il revoit son village!
 | O souvenirs d'autrefois! 
@@ -671,7 +671,7 @@ Vous lui rendez tout son courage
 Attends un peu maintenant... 
 je vais lire sa lettre... 
 
-[MICAËLA]
+[MICAELA]
 Non pas, lisez d'abord,
 Et puis je reviendrai... 
 
@@ -696,36 +696,36 @@ de sa veste, grande rumeur dans l'intérieur
 de la manufacture. Le lieutenant entre suivi
 des soldats)
 
-[CIGARIÈRES]
+[CIGARIERES]
 // dans la coulisse
 Au secours!
 
 [ZUNIGA]
 Que se passe-t-il donc là-bas?
 
-[CIGARIÈRES 1]
+[CIGARIERES 1]
 // elles entrent en courant
 Au secours!
 N'entendez-vous pas?
 
-[CIGARIÈRES 2]
+[CIGARIERES 2]
 Au secours! messieurs les soldats!
 
-[CIGARIÈRES 1]
+[CIGARIERES 1]
 C'est la Carmencita!
 
-[CIGARIÈRES 2]
+[CIGARIERES 2]
 Non, non, ce n'est pas elle!
 
-[CIGARIÈRES 1]
+[CIGARIERES 1]
 C'est elle! Si fait, si fait, c'est elle!
 Elle a porté les premiers coups!
 
-[CIGARIÈRES 2]
+[CIGARIERES 2]
 Ne les écoutez pas!
 Monsieur, écoutez-nous!
 
-[CIGARIÈRES 1]
+[CIGARIERES 1]
 Ne les écoutez pas!
 Monsieur, écoutez-nous!
 
@@ -733,14 +733,14 @@ Monsieur, écoutez-nous!
 Ne les écoutez pas!
 Monsieur, écoutez-nous!
 
-[CIGARIÈRES 2]
+[CIGARIERES 2]
 // elles tirent l'officier de leur côté
 La Manuelita disait
 et répétait à voix haute,
 qu'elle achèterait sans faute
 un âne qui lui plaisait. 
 
-[CIGARIÈRES 1]
+[CIGARIERES 1]
 // même jeu
 Alors la Carmencita,
 railleuse à son ordinaire,
@@ -748,13 +748,13 @@ dit: "Un âne,
 pour quoi faire?
 Un balai te suffira."
 
-[CIGARIÈRES 2]
+[CIGARIERES 2]
 Manuelita riposta
 et dit à sa camarade:
 Pour certaine promenade,
 mon âne te servira! 
 
-[CIGARIÈRES 1]
+[CIGARIERES 1]
 Et ce jour-là tu pourras
 à bon droit faire la fière!
 Deux laquais suivront derrière,
@@ -777,10 +777,10 @@ qui cause ce tapage!
 //(Don José et les soldats 
 //entrent dans la manufacture)
 
-[CIGARIÈRES 1]
+[CIGARIERES 1]
 C'est la Carmencita!
 
-[CIGARIÈRES 2]
+[CIGARIERES 2]
 Non, non, ce n'est pas elle!
 
 [ZUNIGA] 
@@ -2612,19 +2612,19 @@ Laissez-vous passer en avant!
 [GUIDE]
 Nous y sommes. 
 
-[MICAËLA] 
+[MICAELA] 
 C'est ici. 
 
 [GUIDE]
 Oui, vilain endroit, n'est-ce pas...
 
-[MICAËLA]
+[MICAELA]
 Je ne suis pas facile à effrayer. 
 
 [GUIDE]
 Bien vrai?.. 
 
-[MICAËLA]
+[MICAELA]
 Bien vrai... 
 
 [GUIDE]
@@ -2637,7 +2637,7 @@ vous soient en aide...
 
 ### Nº21 🎵 Air
 
-[MICAËLA]
+[MICAELA]
 Je dis que rien ne m'épouvante,
 je dis, hélas! que je réponds de moi;
 mais j'ai beau faire la vaillante,
@@ -2952,14 +2952,14 @@ Pardieu! la surprise est heureuse!
 // reconnaissant Micaëla
 Micaëla! 
 
-[MICAËLA]
+[MICAELA]
 Don José! 
 
 [DON JOSÉ]
 Malheureuse!
 Que viens-tu faire ici? 
 
-[MICAËLA]
+[MICAELA]
 Moi! je viens te chercher!
 Là-bas est la chaumière
 où sans cesse priant,
@@ -2995,7 +2995,7 @@ non, Carmen, je ne partirai pas!
 Et la chaîne qui nous lie
 nous liera jusqu'au trépas!...
 
-[MICAËLA]
+[MICAELA]
 Écoute-moi, je t'en prie,
 ta mère te tend les bras!
 Cette chaîne qui te lie,
@@ -3011,7 +3011,7 @@ se rompra par ton trépas!
 // à Micaëla
 Laisse-moi!
 
-[MICAËLA]
+[MICAELA]
 Hélas! José!
 
 [DON JOSÉ]
@@ -3033,7 +3033,7 @@ non, non, non, je ne partirai pas!
 [FRASQUITA, MERCÉDÈS, REMENDADO, DANCAIRE, CHOEUR]
 Ah! prends garde, prends garde, Don José!
 
-[MICAËLA] 
+[MICAELA] 
 // avec autorité
 Une parole encore;
 
@@ -3048,7 +3048,7 @@ sans t'avoir pardonné!
 [DON JOSÉ]
 Ma mère! elle se meurt!
 
-[MICAËLA]
+[MICAELA]
 Oui, Don José!
 
 [DON JOSÉ]
