@@ -381,8 +381,8 @@ function normalizar(nombre) {
 
 
 const videos = {
-  R: "Ol7eh5jkHKE",
-  Z: "aJ45UuPGRo4"
+  R: "P4wPTLYVYUE",
+  Z: "7rMt4_C63Wk"
 };
 
 
