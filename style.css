@@ -12,7 +12,7 @@ body {
   --color-donjose: #fff3cd;
   --color-escamillo: #d4edda;
   --color-micaela: #e2d4f5;
-  --color-moralès: #d1f0f0;
+  --color-morales: #d1f0f0;
   --color-zuniga: #272f7a;
   --color-frasquita: #ffe5b4;
   --color-mercedes: #f3e5ff;
@@ -30,7 +30,7 @@ body {
 .guion-linea.donjose strong       { background-color: var(--color-donjose); }
 .guion-linea.escamillo strong     { background-color: var(--color-escamillo); }
 .guion-linea.micaela strong       { background-color: var(--color-micaela); }
-.guion-linea.moralès strong       { background-color: var(--color-moralès); }
+.guion-linea.morales strong       { background-color: var(--color-morales); }
 .guion-linea.zuniga strong        { background-color: var(--color-zuniga); }
 .guion-linea.choeur strong        { background-color: var(--color-choeur); }
 .guion-linea.frasquita strong     { background-color: var(--color-frasquita); }
