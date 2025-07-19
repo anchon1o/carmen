@@ -2,13 +2,7 @@
 
 # ACTE PREMIER
 
-//(Une place, à Séville. A droite, la porte 
-//de la manufacture de tabac. A gauche,
-//au premier plan, le corps de garde. Devant
-//le corps de garde, exhaussée de deux ou
-//trois marches; près du corps de garde, 
-//dans un râtelier, les lances des dragons
-//avec leurs banderoles jaunes et rouges.)
+//(Une place, à Séville. A droite, la porte de la manufacture de tabac. A gauche, au premier plan, le corps de garde. Devant le corps de garde, exhaussée de deux ou trois marches; près du corps de garde, dans un râtelier, les lances des dragons avec leurs banderoles jaunes et rouges.)
 
 ## Scène Première
 
