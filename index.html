@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Luisa Fernanda</title>
+  <link href="https://fonts.googleapis.com/css2?family=Aladin&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div id="fijo">
+    <header>
+      <h1>Luisa Fernanda</h1>
+    </header>
+
+    <div id="menu-numeros">
+      <div id="menu-scroll">
+        <button onclick="filtrarPorNumero('todo')">LF</button>
+        <!-- Aquí irían los demás botones -->
+      </div>
+    </div>
+
+    <div id="barra-controles">
+      <div class="controles-izquierda">
+        <select id="vista" onchange="cambiarVista(this.value)">
+          <option value="guion">Guion</option>
+          <option value="chat">Chat</option>
+          <option value="ensayo">Ensayo</option>
+          <option value="sigue">Sigue</option>
+        </select>
+        <button onclick="reproducir('R')">R ⚪</button>
+        <button onclick="reproducir('Z')">Z 🔴</button>
+        <button onclick="toggleReproductor()">⇵</button>
+      </div>
+      <div class="controles-derecha">
+        <button onclick="navegarADireccion('anterior')">⬅️</button>
+        <button onclick="navegarADireccion('siguiente')">➡️</button>
+      </div>
+    </div>
+
+    <div id="reproductor"></div>
+  </div>
+
+  <main id="main-content">
+    <p>Cargando texto...</p>
+  </main>
+
+  <script src="tiemposPorNumero.js"></script>
+  <script type="module">
+  import { crearContadorRacha, actualizarContadorRacha } from './racha.js';
+  window.crearContadorRacha = crearContadorRacha;
+  window.actualizarContadorRacha = actualizarContadorRacha;
+</script>
+
+  <script src="script.js"></script>
+</body>
+</html>
