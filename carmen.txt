@@ -7,8 +7,7 @@ ACTE PREMIER
 ## Scène Première
 ### Nº2 🎵 Sur la place
 
-//(Au lever du rideau, une quinzaine de soldats, Dragons du régiment d'Alcala, sont groupés devant le corps de garde. 
-//Les uns assis et fumant, les autres accoudés sur le balustrade de la galerie. Mouvement de passants sur la place. Des gens pressés, affairés, vont, viennent, se rencontrent, se saluent, se bousculent, etc.)
+//(Au lever du rideau, une quinzaine de soldats, Dragons du régiment d'Alcala, sont groupés devant le corps de garde. Les uns assis et fumant, les autres accoudés sur le balustrade de la galerie. Mouvement de passants sur la place. Des gens pressés, affairés, vont, viennent, se rencontrent, se saluent, se bousculent, etc.)
 
 [SOLDATS]
 Sur la place
@@ -155,14 +154,7 @@ Drôles de gens!
 
 ### Nº3 🎵 Avec la garde montante
 
-//(clairon de loin derrière la scène. 
-//Les passants forment un groupe 
-//pour assister à la parade. De petits 
-//gamins entrent en courant de tous 
-//les côtés. La garde montante paraît: 
-//deux fifres et un clairon d'abord, puis
-//Zuniga, Don José et les soldats de la 
-//garde montante)
+//Clairon de loin derrière la scène. Les passants forment un groupe pour assister à la parade. De petits gamins entrent en courant de tous les côtés. La garde montante paraît: deux fifres et un clairon d'abord, puis Zuniga, Don José et les soldats de la garde montante.
 
 [GAMINS]
 Avec la garde montante
@@ -182,14 +174,13 @@ nous arrivons, nous voilà!
 Sonne, trompette éclatante!
 Ta ra ta ta ta ra ta ta....
 
-//(la garde montante va se ranger 
-//en face de la garde descendante)
+//(la garde montante va se ranger en face de la garde descendante)
 
 [ZUNIGA]
 Halte! Repos! 
 
 [MORALES]
-// à don José
+(à don José)
 Il y a une jolie fille 
 qui est venue te demander. 
 Elle a dit qu'elle reviendrait... 
@@ -212,8 +203,7 @@ Elle n'a pas dit son nom.
 [ZUNIGA]
 Allons! allons! 
 
-(Les factionnaires sont relevés. 
-Départ de la garde descendante)
+//(Les factionnaires sont relevés. Départ de la garde descendante)
 
 [GAMINS]
 Et la garde descendante
@@ -233,11 +223,7 @@ rentre chez elle et s'en va.
 Sonne, trompette éclatante!
 Ta ra ta ta ta ra ta ta.
 
-//(Soldats, gamins, et curieux s'éloignent par
-//le fond. Le lieutenant autorise ses soldats à
-//rompre les rangs; puis ils rentrent dans le
-//corps de garde. Don José et Zuniga restent
-//seuls en scène.) 
+//(Soldats, gamins, et curieux s'éloignent par le fond. Le lieutenant autorise ses soldats à rompre les rangs; puis ils rentrent dans le corps de garde. Don José et Zuniga restent seuls en scène.) 
 
 ## Scène Troisième
 
@@ -272,7 +258,7 @@ Et puis nous avons un faible
 pour les jupes bleues...
 
 [DON JOSÉ] 
-// riant
+(riant)
 Ah! mon lieutenant a entendu 
 ce que me disait Moralès?.. 
 
@@ -288,8 +274,7 @@ Je le comprends maintenant...
 
 
 
-//(La cloche de la manufacture 
-//se fait entendre.)
+//(La cloche de la manufacture se fait entendre.)
 
 ## Scène Quatrième
 
@@ -300,13 +285,7 @@ par vous-même...
 
 ### Nº4 🎵 La cloche a sonné
 
-//(La place se remplit de jeunes gens qui
-//viennent se placer sur le passage des
-//cigarières. Les soldats sortent du poste.
-//Don José s'assied sur une chaise, et reste 
-//là fort indiffèrent à toutes ces allées et
-//venues, travaillant à son épinglette. La
-//cloche cesse.) 
+//(La place se remplit de jeunes gens qui viennent se placer sur le passage des cigarières. Les soldats sortent du poste. Don José s'assied sur une chaise, et reste là fort indiffèrent à toutes ces allées et venues, travaillant à son épinglette. La cloche cesse.) 
 
 [JEUNES GENS] 
 La cloche a sonné. 
@@ -317,9 +296,7 @@ brunes cigarières,
 en vous murmurant 
 des propos d'amour,
 
-//(A ce moment paraissent les cigarières, la
-//cigarette aux lèvres. Elles passent sous le
-//pont et descendent lentement en scène.)
+//(A ce moment paraissent les cigarières, la cigarette aux lèvres. Elles passent sous le pont et descendent lentement en scène.)
 
 [SOLDATS]
 Voyez-les! regards impudents,
@@ -348,14 +325,14 @@ en tournant vers les cieux!
 La fumée, ah!
 
 [JEUNES GENS]
-// aux cigarières
+(aux cigarières)
 Sans faire les cruelles,
 écoutez-nous les belles,
 ô vous que nous adorons,
 que nous idolâtrons!
 
 [CIGARIERES] 
-// reprennent en riant
+(reprennent en riant)
 Le doux parler 
 des amants
 et leurs transports 
@@ -385,17 +362,10 @@ La voilà!
 La voilà
 voilà la Carmencita! 
 
-//(Carmen a un bouquet de cassie à son
-//corsage et une fleur de cassie dans le 
-//coin de la bouche. Trois ou quatre jeunes
-//gens entrent avec Carmen. Ils la suivent,
-//l'entourent, lui parlent. Elle minaude et
-//caquette avec eux. Don José lève la tête. Il
-//regarde Carmen, puis se remet à travailler
-//à son épinglette. 
+//(Carmen a un bouquet de cassie à son corsage et une fleur de cassie dans le coin de la bouche. Trois ou quatre jeunes gens entrent avec Carmen. Ils la suivent, l'entourent, lui parlent. Elle minaude et caquette avec eux. Don José lève la tête. Il regarde Carmen, puis se remet à travailler à son épinglette. 
 
 [JEUNES GENS]
-// entrés avec Carmen
+(entrés avec Carmen)
 Carmen! sur tes pas 
 nous nous pressons tous!
 Carmen! sois gentille, 
@@ -403,7 +373,7 @@ au moins réponds-nous,
 et dis-nous quel jour tu nous aimeras!
 
 [CARMEN]
-// les regardant gaiement
+(les regardant gaiement)
 Quand je vous aimerai? 
 Ma foi, je ne sais pas...
 Peut-être jamais!.. peut-être demain!..
@@ -446,38 +416,22 @@ nous nous pressons tous!
 Carmen! sois gentille, 
 au moins réponds-nous!
 
-//(Moment de silence. Les jeunes gens
-//entourent Carmen, celle-ci les regarde 
-//l'un après l'autre, sort du cercle qu'ils 
-//forment autour d'elle et s'en va droit à 
-//don José, qui est toujours occupé de son
-//épinglette. Elle arrache de son corsage 
-//la fleur de cassie et la lance à don José. 
-//Il se lève brusquement.)
+//(Moment de silence. Les jeunes gens entourent Carmen, celle-ci les regarde l'un après l'autre, sort du cercle qu'ils forment autour d'elle et s'en va droit à don José, qui est toujours occupé de son épinglette. Elle arrache de son corsage la fleur de cassie et la lance à don José. Il se lève brusquement.)
 
 [CIGARIERES]
-// riant entre elles
+(riant entre elles)
 L'amour est enfant de Bohème,
 il n'a jamais connu de loi,
 si tu ne m'aimes pas, je t'aime,
 si je t'aime, 
 prends garde à toi! 
 
-//(Eclat de rire général; la cloche de 
-//la manufacture sonne une deuxième 
-//fois. Sortie des ouvrières. Carmen 
-//sort la première en courant et elle 
-//entre dans la manufacture. Les jeunes 
-//gens sortent à droite et à gauche. Le
-//lieutenant qui bavardait avec deux ou 
-//trois ouvrières, les quitte et rentre dans 
-//le poste après que les soldats y sont 
-//rentrés. Don José reste seul.)
+//(Eclat de rire général; la cloche de la manufacture sonne une deuxième fois. Sortie des ouvrières. Carmen sort la première en courant et elle entre dans la manufacture. Les jeunes gens sortent à droite et à gauche. Le lieutenant qui bavardait avec deux ou trois ouvrières, les quitte et rentre dans le poste après que les soldats y sont rentrés. Don José reste seul.)
 
 [DON JOSÉ]
 Quelle effronterie!..
 
-// Il ramasse la fleur
+(Il ramasse la fleur)
 
 Cette fleur ça m'a fait l'effet 
 d'une balle qui m'arrivait...
@@ -492,7 +446,7 @@ cette fille-là en est une.
 José!
 
 [DON JOSÉ]
-// cachant précipitamment la fleur de cassie
+(cachant précipitamment la fleur de cassie)
 Micaëla!.. c'est toi... 
 
 [MICAELA]
@@ -502,7 +456,7 @@ C'est votre mère qui m'envoie...
 ### Nº7 🎵 Duo
 
 [DON JOSÉ]
-// ému
+(ému)
 Parle-moi de ma mère! 
 
 [MICAELA] 
@@ -510,17 +464,17 @@ J'apporte de sa part, fidèle messagère,
 cette lettre... 
 
 [DON JOSÉ] 
-// joyeux, regardant la lettre
+(joyeux, regardant la lettre)
 Une lettre! 
 
 [MICAELA]
 Et puis un peu d'argent,
 
-// Elle lui remet une petite bourse
+(Elle lui remet une petite bourse)
 
 pour ajouter à votre traitement.
 
-// hésitant
+(hésitant)
 
 Et puis...
 
@@ -561,7 +515,7 @@ et ce baiser que je te donne,
 de ma part tu le lui rendras."
 
 [DON JOSÉ] 
-// très ému
+(très ému)
 Un baiser de ma mère? 
 
 [MICAELA]
@@ -592,7 +546,7 @@ de force et de courage!
 O souvenirs chéris! 
 
 [DON JOSÉ] 
-// à lui même
+(à lui même)
 Qui sait de quel démon 
 j'allais être la proie!
 Même de loin, 
@@ -671,7 +625,7 @@ Et puis je reviendrai...
 // elle sort
 
 [DON JOSÉ] 
-// lit la lettre en silence
+(lit la lettre en silence)
 Ne crains rien
 ma mère,
 ton fils t'obéira,
@@ -690,14 +644,14 @@ de la manufacture. Le lieutenant entre suivi
 des soldats)
 
 [CIGARIERES]
-// dans la coulisse
+(dans la coulisse)
 Au secours!
 
 [ZUNIGA]
 Que se passe-t-il donc là-bas?
 
 [CIGARIERES 1]
-// elles entrent en courant
+(elles entrent en courant)
 Au secours!
 N'entendez-vous pas?
 
@@ -727,14 +681,14 @@ Ne les écoutez pas!
 Monsieur, écoutez-nous!
 
 [CIGARIERES 2]
-// elles tirent l'officier de leur côté
+(elles tirent l'officier de leur côté)
 La Manuelita disait
 et répétait à voix haute,
 qu'elle achèterait sans faute
 un âne qui lui plaisait. 
 
 [CIGARIERES 1]
-// même jeu
+(même jeu)
 Alors la Carmencita,
 railleuse à son ordinaire,
 dit: "Un âne, 
@@ -758,17 +712,16 @@ Là-dessus, toutes les deux
 se sont prises aux cheveux,
 
 [ZUNIGA] 
-// avec humeur
+(avec humeur)
 Au diable tout ce bavardage!
 
-// A don José
+(A don José)
 
 Prenez, José, deux hommes avec vous
 et voyez là dedans 
 qui cause ce tapage! 
 
-//(Don José et les soldats 
-//entrent dans la manufacture)
+//(Don José et les soldats entrent dans la manufacture)
 
 [CIGARIERES 1]
 C'est la Carmencita!
@@ -777,7 +730,7 @@ C'est la Carmencita!
 Non, non, ce n'est pas elle!
 
 [ZUNIGA] 
-// aux soldats
+(aux soldats)
 Holà!
 Eloignez-moi toutes ces femmes-là! 
 
@@ -785,7 +738,7 @@ Eloignez-moi toutes ces femmes-là!
 Monsieur!
 
 [SOLDATS]
-// essayant à repousser les femmes
+(essayant à repousser les femmes)
 Tout doux! 
 Eloignez-vous et taisez-vous!
 
@@ -797,10 +750,7 @@ Monsieur!
 [ZUNIGA]
 Holà! soldats! 
 
-//(Les soldats font évacuer la place. 
-//Carmen paraît sur la porte de la
-//manufacture amenée par don José 
-//et suivie par deux dragons.)
+//(Les soldats font évacuer la place. Carmen paraît sur la porte de la manufacture amenée par don José et suivie par deux dragons.)
 
 ## Scène Neuvième
 
@@ -836,7 +786,7 @@ Parlez, j'attends...
 ### Nº9 🎵 Song and melodrama
 
 [CARMEN]
-// fredonnant
+(fredonnant)
 Tra la, la, la, la, la, la, la,
 Coupe-moi, brûle-moi,
 je ne te dirai rien!
@@ -860,50 +810,41 @@ en disant que je l'aime!
 [ZUNIGA]
 Ah! ah! nous le prenons sur ce ton-là!...
 
-// à José
+(à José)
 
 Ce qui est sûr, n'est-ce pas, 
 c'est qu'il y a eu des coups de couteau 
 et que c'est elle qui les a donnés! 
 
-//(En ce moment, cinq ou six femmes 
-//à droite réussissent à forcer la ligne des
-//factionnaires et se précipitent sur la scène
-//Une de ces femmes se trouve près de
-//Carmen. Celle-ci lève la main et veut 
-//se jeter sur la femme. Don José arrête
-//Carmen. Les soldats écartent les femmes et
-//les repoussent cette fois tout à fait hors de
-//la scène)
+//(En ce moment, cinq ou six femmes à droite réussissent à forcer la ligne des factionnaires et se précipitent sur la scène. Une de ces femmes se trouve près de Carmen. Celle-ci lève la main et veut se jeter sur la femme. Don José arrête Carmen. Les soldats écartent les femmes et les repoussent cette fois tout à fait hors de la scène)
 
 [ZUNIGA]
-// à Carmen; parlé
+(à Carmen; parlé)
 Eh! eh! Vous avez la main leste décidément.
 
-// aux soldats
+(aux soldats)
 
 Trouvez-moi une corde. 
 
 [CARMEN]
-// impertinente en regardant l'officier
+(impertinente en regardant l'officier)
 Tra la, la, la, la, la, la, la...
 
 [UN SOLDAT]
-// apportant une corde; parlé
+(apportant une corde; parlé)
 Voilà, mon lieutenant. 
 
 [ZUNIGA]
-// à don José
+(à don José)
 Prenez, et attachez-moi 
 ces deux jolis mains.
 
-//(Carmen, sans faire le moindre résistance,
-//tend en souriant ses deux mains à don José)
+//(Carmen, sans faire le moindre résistance, tend en souriant ses deux mains à don José)
 
 C'est dommage vraiment, 
 car elle est gentille... 
 
-// a Carmen
+(a Carmen)
 
 Mais si gentille que vous soyez, 
 vous n'en irez pas moins faire 
@@ -913,7 +854,7 @@ vos chansons de bohémienne.
 Le porte-clefs vous dira ce qu'il en pense.
 Je vais écrire l'ordre.
 
-// à don José
+(à don José)
 
 C'est vous qui la conduirez...
 
@@ -921,10 +862,7 @@ C'est vous qui la conduirez...
 
 ## Scène Dixième
 
-//(Un petit moment de silence. Carmen lève
-//les yeux et regarde don José. Celui-ci se
-//détourne, s'éloigne de quelques pas, puis
-//revient à Carmen, qui le regarde toujours.)
+//(Un petit moment de silence. Carmen lève les yeux et regarde don José. Celui-ci se détourne, s'éloigne de quelques pas, puis revient à Carmen, qui le regarde toujours.)
 
 [CARMEN]
 Où me conduirez-vous? 
@@ -964,7 +902,7 @@ Oh! tu peux la jeter maintenant...
 le charme a opéré... 
 
 [DON JOSÉ] 
-// avec colère
+(avec colère)
 Ne me parle plus, je te défends de me parler.
 
 [CARMEN]
@@ -987,7 +925,7 @@ sont à deux...
 donc pour me tenir compagnie,
 j'amènerai mon amoureux!
 
-// riant
+(riant)
 
 Mon amoureux!.. 
 Il est au diable!
@@ -1016,7 +954,7 @@ Lillas Pastia!
 Tais-toi, je t'avais dit de ne pas me parler!
 
 [CARMEN] 
-// simplement
+(simplement)
 Je ne te parle pas...
 je chante pour moi-même,
 et je pense! 
@@ -1027,7 +965,7 @@ et qu'à mon tour je pourrais
 bien aimer! 
 
 [DON JOSÉ] 
-// ému
+(ému)
 Carmen! 
 
 [CARMEN]
@@ -1093,43 +1031,34 @@ Rentre le lieutenant.)
 ## Scène Onzième
 
 [ZUNIGA] 
-// à don José
+(à don José)
 Voici l'ordre; 
 partez, et faites bonne garde. 
 
 [CARMEN] 
-// bas à José
+(bas à José)
 En chemin je te pousserai,
 aussi fort que je le pourrai...
 Laisse-toi renverser... 
 le reste me regarde! 
 
-//(Elle se place entre les deux dragons. José
-//à côté d'elle. Les femmes et les bourgeois
-//sont rentrés en scène toujours maintenus à
-//distance par les dragons... 
+//(Elle se place entre les deux dragons. José à côté d'elle. Les femmes et les bourgeois sont rentrés en scène toujours maintenus à distance par les dragons... 
 
 [CARMEN] 
-// fredonnant et riant au nez de Zuniga
+(fredonnant et riant au nez de Zuniga)
 L'amour est enfant de Bohème,
 il n'a jamais, jamais connu de loi;
 si tu ne m'aimes pas, je t'aime;
 si je t'aime, prends garde à toi!
 
-//(En arrivant à l'entrée du pont, Carmen
-//pousse José qui se laisse renverser.
-//Confusion, désordre, Carmen s'enfuit
+//(En arrivant à l'entrée du pont, Carmen pousse José qui se laisse renverser. Confusion, désordre, Carmen s'enfuit
 
 # ACTE DEUXIÈME
 
 
 ## Scène Première
 
-//(La taverne de Lillas Pastia. Carmen,
-//Mercédès, Frasquita, le lieutenant 
-//Zuniga, Moralès et un lieutenant. Deux
-//bohémiennes, au milieu de la scène,
-//dansent)
+//(La taverne de Lillas Pastia. Carmen, Mercédès, Frasquita, le lieutenant Zuniga, Moralès et un lieutenant. Deux bohémiennes, au milieu de la scène, dansent)
 
 ### Nº12 🎵 Gypsy song
 
@@ -1175,12 +1104,11 @@ Tra la la la, tra la la la...
 [FRASQUITA, MERCÉDÈS, CARMEN]
 Tra la la la, tra la la la...
 
-//(Carmen, Frasuita et Mercèdés dansent. Après
-//la danse, Lillas Pastia se met à tourner 
-//autour des officiers d'un air embarrassé)
+//(Carmen, Frasuita et Mercèdés dansent. Après la danse, Lillas Pastia se met à tourner 
+autour des officiers d'un air embarrassé)
 
 [ZUNIGA]
-// à Lillas Pastia
+(à Lillas Pastia)
 Vous avez quelque chose à nous dire, 
 maître Lillas Pastia? 
 
@@ -1222,7 +1150,7 @@ Parce qu'il y a un mois
 j'ai eu la cruauté de t'envoyer à la prison...
 
 [CARMEN] 
-// comme si elle ne se rappelait pas
+(comme si elle ne se rappelait pas)
 À la prison?... 
 Je ne souviens pas d'être allée à la prison...
 
@@ -1233,14 +1161,14 @@ et emprisonner pour cela...
 Aujourd'hui il a sorti de la prison
 
 [CARMEN] 
-// faisant claquer ses castagnettes
+(faisant claquer ses castagnettes)
 Tout est bien puisqu'il en est sorti, 
 tout est bien. 
 
 ### Nº13 🎵 Choeur et Ensemble
 
 [CHOEUR]
-// derrière la scène
+(derrière la scène)
 Vivat! vivat le torero!
 Vivat! vivat Escamillo!
 Jamais homme intrépide
@@ -1270,7 +1198,7 @@ nous boirons en son honneur!
 [ZUNIGA]
 C'est cela, je vais l'inviter.
 
-// il va à la fenêtre
+(il va à la fenêtre)
 
 Monsieur le torero... 
 voulez-vous nous faire l'amitié
@@ -1279,7 +1207,7 @@ Vous y trouverez des gens
 qui aiment fort tous ceux qui, comme vous,
 ont de l'adresse et du courage...
 
-// quittant la fenêtre
+(quittant la fenêtre)
 
 Il vient... 
 
@@ -1302,7 +1230,7 @@ Vivat! vivat le torero!
 ### Nº14 🎵 Toreador Song
 
 [ESCAMILLO]
-// rude et très rythmé
+(rude et très rythmé)
 Votre toast, je peux vous le rendre,
 señors, car avec les soldats
 oui, les toreros peuvent s'entendre;
@@ -1374,7 +1302,7 @@ Messieurs les officiers, je vous en prie.
 C'est bien, c'est bien, nous partons. 
 
 [ESCAMILLO]
-// à Carmen
+(à Carmen)
 Dis-moi ton nom, et la première fois 
 que je frapperai le taureau, 
 ce sera ton nom que je prononcerai. 
@@ -1401,7 +1329,7 @@ Il n'est pas défendu d'attendre
 et il est toujours agréable d'espérer. 
 
 [ZUNIGA]
-// Bas à Carmen
+(Bas à Carmen)
 Écoute-moi, Carmen, 
 puisque tu ne veux pas venir avec nous, 
 c'est moi qui dans une heure reviendrai ici...
@@ -1433,7 +1361,7 @@ Frasquita, Mercédès et Lillas Pastia.)
 ## Scène Troisième
 
 FRASQUITA 
-// à Pastia
+(à Pastia)
 Pourquoi étais-tu si pressé 
 de les faire partir?
 
@@ -1457,17 +1385,17 @@ Nous avons de marchandises anglaises...
 mais c'est de vous que nous avons besoin... 
 
 [MERCÉDÈS]
-// riant
+(riant)
 Pour vous aider à porter les ballots?... 
 
 [REMENDADO]
-// avec ton moqueur
+(avec ton moqueur)
 Oh! non... 
 Faire porter des ballots à des dames... 
 ça ne serait pas distingué. 
 
 [DANCAIRE]
-// menaçant
+(menaçant)
 Remendado? 
 
 [REMENDADO]
@@ -1546,7 +1474,7 @@ Mais... tout de suite...
 [CARMEN]
 Ah! permettez... permettez!
 
-// à Mercédès et à Frasquita
+(à Mercédès et à Frasquita)
 
 S'il vous plaît de partir... partez!
 Mais je ne suis pas du voyage.
@@ -1589,7 +1517,7 @@ Eh bien?
 Je suis amoureuse!
 
 [REMENDADO, DANCAIRE] 
-// stupéfaits
+(stupéfaits)
 Qu'a-t-elle dit?
 
 [FRASQUITA, MERCÉDÈS]
@@ -1608,7 +1536,7 @@ Voyons, Carmen, sois sérieuse
 Amoureuse à perdre l'esprit! 
 
 [REMENDADO, DANCAIRE] 
-// un peu ironique
+(un peu ironique)
 La chose, certes, nous étonne,
 mais ce n'est pas le premier jour
 où vous aurez su, ma mignonne,
@@ -1616,7 +1544,7 @@ faire marcher de front
 le devoir et l'amour...
 
 [CARMEN] 
-// franchement
+(franchement)
 Mes amis, je serais fort aise
 de partir avec vous ce soir;
 mais cette fois, ne vous déplaise,
@@ -1685,15 +1613,14 @@ Je parierais qu'il ne viendra pas.
 [CARMEN]
 Ne parie pas, tu perdrais... 
 
-//(On entend dans le lointain 
-//la voix de don José)
+//(On entend dans le lointain la voix de don José)
 
 ## Scène Quatrième
 
 ### Nº16 🎵 Chanson
 
 [DON JOSÉ] 
-// la voix très éloigné
+(la voix très éloigné)
 Halte-là!
 Qui va là?
 Dragon d'Alcalá!
@@ -1710,9 +1637,7 @@ pour nous
 tout est là,
 dragons d'Alcalá!
 
-//(Carmen, le Dancaïre, le Remendado,
-//Mercédès et Frasquita, par les volets
-//entr'ouverts, regardent venir don José.
+//(Carmen, le Dancaïre, le Remendado, Mercédès et Frasquita, par les volets entr'ouverts, regardent venir don José.
 
 [MERCÉDÈS]
 C'est un dragon, ma foi. 
@@ -1721,7 +1646,7 @@ C'est un dragon, ma foi.
 Et un beau dragon. 
 
 [DANCAIRE]
-// à Carmen
+(à Carmen)
 Tu devrais décider ton dragon à venir 
 avec toi et à se joindre à nous. 
 
@@ -1736,13 +1661,11 @@ Pourquoi l'aimes-tu encore?
 Parce qu'il est joli garçon donc 
 et qu'il me plaît. 
 
-//(Remendado, Frasquita Mercédès et
-//Dancaire sortent)
+//(Remendado, Frasquita Mercédès et Dancaire sortent)
 
-Chanson 
 
 [DON JOSÉ]
-// la voix se rapproche peu à peu
+(la voix se rapproche peu à peu)
 Halte-là! 
 Qui va là?
 Dragon d'Alcala!
@@ -1785,7 +1708,7 @@ Parce que tu m'aimes?
 Parce que je t'adore. 
 
 [CARMEN] 
-// mettant ses mains dans les mains de José
+(mettant ses mains dans les mains de José)
 Je paie mes dettes... 
 c'est notre loi à nous autre bohémiennes... 
 
@@ -1814,7 +1737,7 @@ pour toi tout seul.
 ### Nº17 🎵 Duet
 
 [CARMEN] 
-// avec une solennité comique
+(avec une solennité comique)
 Je vais danser en votre honneur,
 et vous verrez, seigneur,
 comment je fais moi-même
@@ -1822,21 +1745,18 @@ accompagner ma danse!
 Mettez-vous là, Don José; 
 je commence!
 
-// Elle fait asseoir Don José
+(Elle fait asseoir Don José)
 
 La la la...
 
-//(Carmen danse et s accompagne avec ses
-//castagnettes. Don José la dévore des yeux.
-//On entend au loin, des clairons qui sonnent
-//la retraite) 
+//(Carmen danse et s accompagne avec ses castagnettes. Don José la dévore des yeux. On entend au loin, des clairons qui sonnent la retraite) 
 
 [DON JOSÉ]
 Attends un peu, Carmen,
 rien qu'un moment... arrête! 
 
 [CARMEN] 
-// étonnée
+(étonnée)
 Et pourquoi, s'il te plaît? 
 
 [DON JOSÉ]
@@ -1844,12 +1764,12 @@ Il me semble... là-bas...
 Oui, ce sont nos clairons 
 qui sonnent la retraite.
 
-// Les clairons se rapprochent
+(Les clairons se rapprochent)
 
 Ne les entends-tu pas? 
 
 [CARMEN] 
-// avec entrain
+(vec entrain)
 Bravo! j'avais beau faire;... 
 il est mélancolique
 de danser sans orchestre... 
@@ -1857,13 +1777,7 @@ Et vive la musique
 qui nous tombe du ciel! 
 La, la, la...
 
-//(Elle reprend sa chanson qui se rythme 
-//sur la retraite sonnée au dehors par les
-//clairons. Carmen se remet à danser et 
-//Don José se remet à regarder Carmen. La
-//retraite approche... approche... approche...
-//passe sous les fenêtres de l'auberge... puis
-//s'éloigne...)
+//(Elle reprend sa chanson qui se rythme sur la retraite sonnée au dehors par les clairons. Carmen se remet à danser et Don José se remet à regarder Carmen. La retraite approche... approche... approche... passe sous les fenêtres de l'auberge... puis s'éloigne...)
 
 [DON JOSÉ]
 Tu ne m'a pas compris. Carmen... 
@@ -1871,7 +1785,7 @@ c'est la retraite! Il faut que moi,
 je rentre au quartier pour l'appel! 
 
 [CARMEN] 
-// stupéfaite
+(stupéfaite)
 Au quartier!.. 
 pour l'appel!..
 Ah! j'étais vraiment trop bête!
@@ -1891,7 +1805,7 @@ et va-t'en, mon garçon, ve t'en!
 Retourne à ta caserne! 
 
 [DON JOSÉ]
-// avec tristesse
+(avec tristesse)
 C'est mal à toi, Carmen, 
 de te moquer de moi!
 Je souffre de partir...
@@ -1901,7 +1815,7 @@ aussi profondément n'avait
 troublé mon âme! 
 
 [CARMEN] 
-// en exagérant le ton passionné de don José
+(en exagérant le ton passionné de don José)
 Il souffre de partir, car jamais, 
 Jamais femme, jamais femme 
 avant moi, aussi avant moi
@@ -1932,11 +1846,7 @@ Tu m'entendras!
 Tu vas te faire attendre!
 Non! non! non! non!
 
-//(De la main gauche, il a saisi brusquement
-//le bras de Carmen; de la main droite, il va
-//chercher sous sa veste d'uniforme la fleur
-//de cassie que Carmen lui a jetée au premier
-//acte. Il montre cette fleur à Carmen)
+//(De la main gauche, il a saisi brusquement le bras de Carmen; de la main droite, il va chercher sous sa veste d'uniforme la fleur de cassie que Carmen lui a jetée au premier acte. Il montre cette fleur à Carmen)
 
 [DON JOSÉ]
 La fleur que tu m'avais jetée
@@ -1989,7 +1899,7 @@ en croupe, tu m'emporterais!
 Là-bas, là-bas dans la montagne.
 
 [DON JOSÉ] 
-// troublé
+(troublé)
 Carmen!
 
 [CARMEN]
@@ -2015,7 +1925,7 @@ Mon Dieu!
 Là-bas, là-bas dans la montagne!
 
 [DON JOSÉ] 
-// presque vaincu
+(presque vaincu)
 Carmen!
 
 [CARMEN]
@@ -2047,11 +1957,11 @@ c'est l'infamie!...
 Je n'en veux pas!
 
 [CARMEN]
-// durement
+(durement)
 Eh bien! pars!
 
 [DON JOSÉ] 
-// suppliant]
+(suppliant)
 Carmen, je t'en prie!
 
 [CARMEN]
@@ -2064,7 +1974,7 @@ Non! je ne t'aime plus! Va! je te hais!
 Adieu! mais adieu pour jamais!
 
 [DON JOSÉ] 
-// avec douleur
+(avec douleur)
 Eh bien! soit! adieu! adieu pour jamais!
 
 [CARMEN]
@@ -2076,16 +1986,14 @@ Carmen! adieu! adieu pour jamais!
 [CARMEN]
 Adieu!
 
-//(Il va en courant vers la porte. Au moment
-//il y arrive, on frappe. Don José s'arrête,
-//silence. On frappe encore.)
+//(Il va en courant vers la porte. Au moment il y arrive, on frappe. Don José s'arrête, silence. On frappe encore.)
 
 ## Scène Sixième
 
 ### Nº18 🎵 Final
 
 [ZUNIGA] 
-// au dehors
+(au dehors)
 Holà! Carmen! Holà! Holà! 
 
 [DON JOSÉ]
@@ -2095,22 +2003,22 @@ Qui frappe? qui vient là?
 Tais-toi... tais-toi! 
 
 [ZUNIGA]
-// faisant sauter la porte
+(faisant sauter la porte)
 J'ouvre moi-méme... et j'entre...
 
-// Il voit Don José. À Carmen
+(Il voit Don José. À Carmen)
 
 Ah! fi! ah! fi! la belle!
 Le choix n'est pas heureux! 
 C'est se mésallier de prendre 
 le soldat quand on a l'officier.
 
-// à don José
+(à don José)
 
 Allons, décampe! 
 
 [DON JOSÉ] 
-// calme, mais résolu
+(calme, mais résolu)
 Non! 
 
 [ZUNIGA]
@@ -2120,32 +2028,28 @@ Si fait! tu partiras.
 Je ne partirai pas. 
 
 [ZUNIGA] 
-// le frappant
+(le frappant)
 Drôle! 
 
 [DON JOSÉ] 
-// sautant sur son sabre
+(sautant sur son sabre)
 Tonnerre!.. 
 Il va pleuvoir des coups! 
 
 // Le lieutenant dégaine à moitié
 
 [CARMEN] 
-// se jetant entre eux deux
+(se jetant entre eux deux)
 Au diable le jaloux!
 
-// appelant
+(appelant)
 
 À moi! à moi! 
 
-//(Le Dancaïre, le Remendado, Mercédès,
-//Frasquita, les Bohémiens paraissent de 
-//tous les côtés. Carmen d'un geste montre le
-//lieutenant aux Bohémiens; le Dancaïre et le
-//Remendado se jettent sur lui, le désarment)
+//(Le Dancaïre, le Remendado, Mercédès, Frasquita, les Bohémiens paraissent de tous les côtés. Carmen d'un geste montre le lieutenant aux Bohémiens; le Dancaïre et le Remendado se jettent sur lui, le désarment)
 
 [CARMEN] 
-// à Zuniga d'un ton moqueur
+(à Zuniga d'un ton moqueur)
 Bel officier, bel officier, l'amour
 vous joue en ce moment 
 un assez vilain tour!
@@ -2156,8 +2060,7 @@ de vous garder au moins...
 pendant une heure. 
 
 [REMENDADO, DANCAIRE]
-//(à Zuniga, le pistolet à la main,
-//gracieusement)
+(à Zuniga, le pistolet à la main, gracieusement)
 Mon cher monsieur!
 nous allons, s'il vous plaît,
 quitter cette demeure;
@@ -2176,13 +2079,13 @@ Répondez, camarade!
 [ZUNIGA]
 Certainement.
 
-// avec ironie
+(avec ironie)
 
 D'autant plus que votre argument
 est un de ceux auxquels 
 on ne résiste guère!
 
-// changeant de ton]
+(changeant de ton)
 
 Mais gare à vous plus tard! 
 
@@ -2194,10 +2097,10 @@ passez devant sans vous faire prier!
 [REMENDADO, BOHÉMIENS]
 Passez devant sans vous faire prier! 
 
-// L'officier sort emmené par bohémiens
+(L'officier sort emmené par bohémiens)
 
 [CARMEN] 
-// à don José
+(à don José)
 Es-tu des nôtres maintenant? 
 
 [DON JOSÉ]
@@ -2217,7 +2120,7 @@ la chose enivrante:
 la liberté! la liberté! 
 
 [TOUS] 
-// excepté don José
+(excepté don José)
 Suis-nous à travers la campagne,
 viens avec nous dans la montagne,
 suis-nous et tu t'y feras, tu t'y feras
@@ -2230,7 +2133,7 @@ et surtout, la chose enivrante:
 La liberté! La liberté!
 
 [DON JOSÉ] 
-// entraîné
+(entraîné)
 Ah! ¡La liberté!
 
 [TOUS]
@@ -2254,14 +2157,7 @@ La liberté! La liberté!
 
 ### Nº19 🎵 Sextet ans chorus
 
-//(Le rideau se lève sur des rochers. Site
-//pittoresque et sauvage. Solitude complète
-//et nuit noire. Un contrebandier paraît au 
-//haut des rochers, et sonne de la trompe, 
-//puis un autre, puis deux autres, puis vingt
-//autres ça et là, descendant et escaladant
-//des rochers. Des hommes portent de gros
-//ballots sur les épaules.)
+//(Le rideau se lève sur des rochers. Site pittoresque et sauvage. Solitude complète et nuit noire. Un contrebandier paraît au haut des rochers, et sonne de la trompe, puis un autre, puis deux autres, puis vingt autres ça et là, descendant et escaladant des rochers. Des hommes portent de gros ballots sur les épaules.)
 
 [CHOEUR]
 Écoute, compagnon, écoute!
@@ -2345,12 +2241,7 @@ Tu es le diable, Carmen!...
 [CARMEN]
 Mais oui, je te l'ai déjà dit... 
 
-//(Elle tourne le dos à José et va s'asseoir près 
-//de Mercédès et de Frasquita. Après un instant
-//d'indécision, José s'éloigne à son tour et va 
-//s'étendre sur les rochers. Pendant les dernières 
-//répliques de la scène, Mercédès et Frasquita ont 
-//étalé des cartes devant elles)
+//(Elle tourne le dos à José et va s'asseoir près de Mercédès et de Frasquita. Après un instant d'indécision, José s'éloigne à son tour et va s'étendre sur les rochers. Pendant les dernières répliques de la scène, Mercédès et Frasquita ont étalé des cartes devant elles)
 
 ### Nº20 🎵 Trio
 
@@ -2374,7 +2265,7 @@ Le mien est très riche et très vieux;
 mais il parle de mariage! 
 
 [MERCÉDÈS] 
-// fièrement
+(fièrement)
 Je me campe sur son cheval
 et dans la montagne il m'entraîne! 
 
@@ -2387,7 +2278,7 @@ De l'amour à n'en plus finir,
 tous les jours, nouvelles folies! 
 
 [FRASQUITA]
-// avec joie
+(avec joie)
 De l'or tant que j'en puis tenir,
 des diamants, des pierreries! 
 
@@ -2400,7 +2291,7 @@ Le mien... le mien...
 en croirai-je mes yeux?.. oui... 
 Il meurt!
 
-// avec ivresse
+(avec ivresse)
 
 Ah! je suis veuve et j'hérite! 
 
@@ -2412,8 +2303,7 @@ Dites-nous qui nous trahira!
 Dites-nous qui nous aimera!
 Parlez encor! parlez encor!
 
-(Elles recommencent à 
-consulter les cartes)
+//(Elles recommencent à consulter les cartes)
 
 [FRASQUITA]
 Fortune! 
@@ -2424,7 +2314,7 @@ Amour!
 [CARMEN]
 Donnez, que j'essaie à mon tour.
 
-// Elle se met à tourner les cartes
+(Elle se met à tourner les cartes)
 
 Carreau! Pique! La mort!...
 J'ai bien lu!.. moi d'abord...
@@ -2449,7 +2339,7 @@ recommence vingt fois,
 la carte impitoyable répétera: 
 la mort!
 
-// tournant les cartes
+(tournant les cartes)
 
 encor!.. encor!.. 
 toujours la mort!
@@ -2506,24 +2396,23 @@ Perez...
 [CARMEN]
 Et Bartolomé...
 
-// en riant
+(en riant)
 
 Nous vous en répondons 
 de vos trois douaniers... 
 
 [DON JOSÉ] 
-// furieux
+(furieux)
 Carmen! 
 
 [DANCAIRE]
-// S'adressant à José
+(S'adressant à José)
 Tu vas nous laisser tranquilles 
 avec ta jalousie... 
 Dans le cas où tu apercevrais quelqu'un, 
 je t'autorise à passer ta colère 
 sur l'indiscret
 En route, les enfants...
-
 
 ### Nº21 🎵 Morceau d'Ensemble
 
@@ -2591,14 +2480,11 @@ Tout comme un autre, il aime à plaire!
 Il aime à faire le galant! 
 Laissez-vous passer en avant!
 
-//(Tout le monde sort. On voit un homme
-//passer sa tête au-dessus du rocher. 
-//C'est un guide.)
+//(Tout le monde sort. On voit un homme passer sa tête au-dessus du rocher. C'est un guide.)
 
 ## Scène Quatrième
 
-//(Le Guide s'avance avec précaution, puis
-//fait un signe à Micaëla)
+//(Le Guide s'avance avec précaution, puis fait un signe à Micaëla)
 
 [GUIDE]
 Nous y sommes. 
@@ -2665,11 +2551,11 @@ Entre Escamillo)
 ## Scène Sixième
 
 [DON JOSÉ] 
-// son couteau à la main
+(son couteau à la main)
 Qui êtes-vous? répondez. 
 
 [ESCAMILLO]
-// très calm
+(très calm)
 Eh là... doucement! 
 
 ### Nº23 🎵 Duet
@@ -2720,7 +2606,7 @@ elle avait pour amant,
 un soldat qui jadis a déserté pour elle; 
 
 [DON JOSÉ] 
-// à part
+(à part)
 Carmen! 
 
 [ESCAMILLO]
@@ -2743,15 +2629,15 @@ nos filles de Bohême
 savez-vous bien qu'il faut payer?... 
 
 ESCAMILLO 
-// gaiment
+(gaiment)
 Soit! on paiera, soit! on paiera. 
 
 [DON JOSÉ] 
-// menaçant
+(menaçant)
 Et que le prix se paie à coups de navaja! 
 
 [ESCAMILLO]
-// surpris
+(surpris)
 À coups de navaja! 
 
 [DON JOSÉ]
@@ -2760,7 +2646,7 @@ Comprenez-vous?
 [ESCAMILLO]
 Le discours est très net.
 
-// avec une légère teinte d'ironie
+(avec une légère teinte d'ironie)
 
 Ce déserteur, 
 ce beau soldat qu'elle aime,
@@ -2792,22 +2678,19 @@ Mettez-vous en garde et veillez sur vous!
 Mettez-vous en garde,
 veillez sur vous!
 
-//(Ils se mettent en garde 
-//à une certaine distance)
+//(Ils se mettent en garde à une certaine distance)
 
 [ESCAMILLO]
 Je la connais, ta garde navarraise,
 et je te préviens en ami
 qu'elle ne vaut rien.
 
-//(Sans répondre don José 
-//marche sur Escmillo)
+(Sans répondre don José marche sur Escmillo)
 
 À ton aise!
 Je t'aurai du moins averti. 
 
-//(Combat. Le toréro très calme 
-//cherche seulement à se défendre)
+//(Combat. Le toréro très calme cherche seulement à se défendre)
 
 [DON JOSÉ]
 Tu m'épargnes, maudit! 
@@ -2819,9 +2702,7 @@ je sui trop fort pour toi!
 [DON JOSÉ]
 Voyons cela! 
 
-//(Rapide et très-vif engagement corps 
-//à corps. José se trouve à la merci du 
-//torero qui ne le frappe pas.)
+//(Rapide et très-vif engagement corps à corps. José se trouve à la merci du torero qui ne le frappe pas.)
 
 [ESCAMILLO]
 Tout beau!
@@ -2845,23 +2726,19 @@ Mettez-vous en garde et veillez sur vous!
 Tant pis pour qui tarde
 à parer les coups!
 
-//(reprise du combat. Le torero glisse et
-//tombe sur le gazon. Don José va le frapper.
-//Entrent Carmen et le Dancaïre se
-//précipitent)
+//(reprise du combat. Le torero glisse et tombe sur le gazon. Don José va le frapper. Entrent Carmen et le Dancaïre se précipitent)
 
 
 ### Nº24 🎵 Final
 
 [CARMEN]
-// arrêtant le bras de don José
+(arrêtant le bras de don José)
 Holà! holà! José! 
 
-//(entre Remendado suivi de Frasquita,
-//Mercédès et des contrebandiers)
+//(entre Remendado suivi de Frasquita, Mercédès et des contrebandiers)
 
 [ESCAMILLO]
-// se relèvant, à Carmen
+(se relèvant, à Carmen)
 Vrai! j'ai l'âme ravie
 que ce soit vous, Carmen, 
 qui me sauviez la vie! 
@@ -2870,7 +2747,7 @@ qui me sauviez la vie!
 Escamillo! 
 
 [ESCAMILLO]
-// à don José
+(à don José)
 Quant à toi, beau soldat:
 nous sommes manche 
 à manche et nous jouerons la belle,
@@ -2878,11 +2755,11 @@ le jour où tu voudras
 reprendre le combat. 
 
 [DANCAIRE]
-// s'interposant
+(s'interposant)
 C'est bon, c'est bon! plus de querelle!
 Nous, nous allons partir.
 
-// Au toréro
+(Au toréro)
 
 Et toi... et toi l'ami, bonsoir! 
 
@@ -2894,12 +2771,11 @@ courses de Séville.
 Je compte pour ma part y 
 briller de mon mieux...
 
-// regardant Carmen
+(regardant Carmen)
 
 Et qui m'aime y viendra!
 
-(À Don José qui fait
-un geste de menace)
+(À Don José qui fait un geste de menace)
 
 L'ami, tiens-toi tranquille!
 J'ai tout dit...
@@ -2907,18 +2783,14 @@ oui, j'ai tout dit...
 et je n'ai plus ici 
 qu'à faire mes adieux!... 
 
-(Le torero sort très-lentement. Don José
-veut s'élancer sur lui, Le Dancaïre et le
-Remendado le retiennent)
+//(Le torero sort très-lentement. Don José veut s'élancer sur lui, Le Dancaïre et le Remendado le retiennent)
 
 [DON JOSÉ] 
-(à Carmen, menaçant, 
-mais contenu)
+(à Carmen, menaçant, mais contenu)
 Prends garde à toi... Carmen, 
 je suis las de souffrir! 
 
-(Carmen lui répond par un léger mouvement 
-d'épaules et s'éloigne de lui)
+//(Carmen lui répond par un léger mouvement d'épaules et s'éloigne de lui)
 
 [DANCAIRE]
 En route, en route, il faut partir! 
@@ -2940,7 +2812,7 @@ Une femme!
 Pardieu! la surprise est heureuse! 
 
 [DON JOSÉ] 
-// reconnaissant Micaëla
+(reconnaissant Micaëla)
 Micaëla! 
 
 [MICAELA]
@@ -2962,12 +2834,12 @@ Tu prendras pitié d'elle,
 José, ah! José, tu me suivras! 
 
 [CARMEN] 
-// à Don José, martelé
+(à Don José, martelé)
 Va-t'en, va-t'en, tu feras bien,
 notre métier ne te vaut rien! 
 
 [DON JOSÉ]
-// à Carmen
+(à Carmen)
 Tu me dis de la suivre! 
 
 [CARMEN]
@@ -2979,7 +2851,7 @@ pour que toi tu puisses courir
 après ton nouvel amant!
 Non! non vraiment!
 
-// résolument]
+(résolument)
 
 Dût-il m'en coûter la vie,
 non, Carmen, je ne partirai pas!
@@ -2999,7 +2871,7 @@ et la chaîne qui vous lie
 se rompra par ton trépas!
 
 [DON JOSÉ] 
-// à Micaëla
+(à Micaëla)
 Laisse-moi!
 
 [MICAELA]
@@ -3012,7 +2884,7 @@ Car je suis condamné!
 José! prends garde!
 
 [DON JOSÉ] 
-// à Carmen avec emportement
+(à Carmen avec emportement)
 Ah! 
 Je te tiens, fille damnée!
 Je te tiens, et je te forcerai bien
@@ -3025,10 +2897,10 @@ non, non, non, je ne partirai pas!
 Ah! prends garde, prends garde, Don José!
 
 [MICAELA] 
-// avec autorité
+(avec autorité)
 Une parole encore;
 
-// tristement
+(tristement)
 
 ce sera la dernière!
 Ta mère, hélas!
@@ -3045,7 +2917,7 @@ Oui, Don José!
 [DON JOSÉ]
 Partons! ah! partons!
 
-// À Carmen
+(À Carmen)
 
 Sois contente... je pars... 
 mais... nous nous reverrons! 
@@ -3053,7 +2925,7 @@ mais... nous nous reverrons!
 // On entend le torero
 
 [ESCAMILLO]
-// au loin
+(au loin)
 Toréador, en garde!
 Toréador! Toréador!
 Et songe bien, oui, songe en combattant
@@ -3065,16 +2937,12 @@ Toréador, l'amour t'attend,
 [DON JOSÉ]
 Micaëla, partons!
 
-//(Les Bohémiens ont pris leurs 
-//ballots et se mettent en marche)
+//(Les Bohémiens ont pris leurs ballots et se mettent en marche)
 
 
 ## Deuxième Tableau
 
-//(Une place à Séville. L'entrée du cirque est
-//fermée par un long velum. C'est le jour d'un
-//combat de taureaux. Grand mouvement sur
-//la place)
+//(Une place à Séville. L'entrée du cirque est fermée par un long velum. C'est le jour d'un combat de taureaux. Grand mouvement sur la place)
 
 ## Scène Première
 
@@ -3088,11 +2956,10 @@ Le programme avec les détails!
 Du vin! De l'eau! Des cigarettes!
 Séñoras et Caballeros! 
 
-//(Pendant le choeur, paraissent Zuniga 
-//et Andrès avec Mercédès et Frasquita)
+//(Pendant le choeur, paraissent Zuniga et Andrès avec Mercédès et Frasquita)
 
 [ZUNIGA] 
-// aux marchandes
+/(aux marchandes)
 Des oranges... vite.
 
 [PLUSIEURS MARCHANDES]
@@ -3100,11 +2967,11 @@ En voici...
 Prenez, prenez, mesdemoiselles. 
 
 [UNE MARCHANDE]
-// à l'officier qui paie
+(à l'officier qui paie)
 Merci, mon officier, merci!
 
 [MARCHANDES]
-// à Zuniga
+(à Zuniga)
 Celles-ci, séñor, sont plus belles!
 
 [MARCHANDES]
@@ -3164,7 +3031,7 @@ je ne serais pas tranquille du tout.
 ### Nº26 🎵 Choeur et Scène
 
 [ENFANTS]
-// au dehors
+(au dehors)
 Les voici, les voici,
 voici la quadrille! 
 
@@ -3186,14 +3053,14 @@ voici d'abord, marchant au pas,
 l'alguazil à vilaine face.
 À bas! à bas! à bas! à bas!
 
-// Entrée des chulos
+(Entrée des chulos)
 
 Et puis saluons au passage,
 saluons les hardis chulos!
 Bravo! viva! gloire au courage!
 Voici les hardis chulos! 
 
-//entrée des banderillos
+(entrée des banderillos)
 
 Voyez les banderilleros,
 voyez quel air de crânerie!
@@ -3202,7 +3069,7 @@ Voyez quels regards, et de quel éclat
 de leur costume de combat!
 Voici les Banderilleros! 
 
-// Entrée des picadors
+(Entrée des picadors)
 
 Une autre quadrille s'avance!
 Voyez les picadors! 
@@ -3211,9 +3078,7 @@ Comme ils vont du fer de leur lance
 harceler le flanc des taureaux!
 L'Espada! Escamillo!
 
-//(Paraît enfin Escamillo ayant près 
-//de lui Carmen radieuse et dans un 
-//costume éclatant)
+(Paraît enfin Escamillo ayant près de lui Carmen radieuse et dans un costume éclatant)
 
 C'est l'Espada, la fine lame,
 celui qui vient terminer tout,
@@ -3232,7 +3097,7 @@ Vive Escamillo! Ah!
 Bravo! Vive! Bravo!
 
 [ESCAMILLO]
-// à Carmen
+(à Carmen)
 Si tu m'aimes, Carmen,
 tu pourras, tout à l'heure,
 être fière de moi!
@@ -3246,8 +3111,7 @@ si j'ai jamais aimé quelqu'un autant que toi!
 Ah! je t'aime!
 Oui, je t'aime!
 
-//(Paraissent deux trompettes 
-//suivis de quatre alguazils)
+//(Paraissent deux trompettes suivis de quatre alguazils)
 
 [ALGUAZILS]
 Place! place! place au seigneur Alcade!
@@ -3300,12 +3164,7 @@ Je ne crains rien!
 [FRASQUITA]
 Prends garde! 
 
-//(L'Alcade est entré dans le cirque. Derrière
-//l'alcade, le cortège de la quadrille reprend
-//sa marche et entre dans le cirque. Le
-//populaire suit et la foule en se retirant 
-//a dégagé don José. Carmen et don José
-//restent seules, en présence l'un de l'autre.
+//(L'Alcade est entré dans le cirque. Derrière l'alcade, le cortège de la quadrille reprend sa marche et entre dans le cirque. Le populaire suit et la foule en se retirant a dégagé don José. Carmen et don José restent seules, en présence l'un de l'autre.
 
 
 ## Scène Seconde
@@ -3367,15 +3226,15 @@ Tu n'obtiendras rien, non, rien de moi,
 ah! c'est en vain...
 
 [DON JOSÉ]
-// avec anxiété
+(avec anxiété)
 Tu ne m'aimes donc plus?
 
 [CARMEN] 
-// simplement
+(simplement)
 Non! je ne t'aime plus. 
 
 [DON JOSÉ] 
-// avec passion
+(avec passion)
 Mais moi, Carmen, je t'aime encore,
 Carmen, hélas! moi, je t'adore!
 
@@ -3394,7 +3253,7 @@ o ma Carmen!
 souviens-toi du passé! 
 Nous nous aimions, naguère!
 
-//désespéré
+(désespéré)
 
 Ah! ne me quitte pas, Carmen,
 ah! ne me quitte pas! 
@@ -3404,7 +3263,7 @@ Jamais Carmen ne cédera!
 Libre elle est née et libre elle mourra! 
 
 [CHOEUR]
-// dans le cirque
+(dans le cirque)
 Viva! la course est belle!
 Sur le sable sanglant
 le taureau qu'on harcèle
@@ -3412,13 +3271,10 @@ s'élance en bondissant...
 Frappé juste en plein coeur!
 Viva! Bravo! Victoire!
 
-//(En entendant les cris de victoire, Carmen 
-//a laissé échapper un ``Ah!'' d'orgueil et de
-//joie. Don José ne perd pas Carmen de vue.
-//Carmen fait un pas du côté du cirque. )
+//(En entendant les cris de victoire, Carmen a laissé échapper un ``Ah!'' d'orgueil et de joie. Don José ne perd pas Carmen de vue. Carmen fait un pas du côté du cirque. )
 
 [DON JOSÉ] 
-// se plaçant devant elle
+(se plaçant devant elle)
 Où vas-tu? 
 
 [CARMEN]
@@ -3429,7 +3285,7 @@ Cet homme qu'on acclame,
 c'est ton nouvel amant! 
 
 [CARMEN] 
-// voulant passer
+(voulant passer)
 Laisse-moi... laisse-moi... 
 
 [DON JOSÉ]
@@ -3450,14 +3306,14 @@ Je l'aime et devant la mort même,
 je répéterais que je l'aime! 
 
 [CHOEUR]
-// dans le cirque
+(dans le cirque)
 Viva! Bravo! Victoire!
 Frappe juste en plein coeur!
 Le taureau tombe! Gloire!
 Gloire au torero vainqueur!
 
 [DON JOSÉ] 
-// avec violence
+(avec violence)
 Ainsi, le salut de mon âme
 je l'aurai perdu pour que toi,
 pour que tu t'en ailles, infâme,
@@ -3472,7 +3328,7 @@ Non, non! jamais!
 Je suis las de te menacer! 
 
 [CARMEN]
-// avec colère
+(avec colère)
 Eh bien! frappe-moi donc, 
 ou laisse-moi passer. 
 
@@ -3480,7 +3336,7 @@ ou laisse-moi passer.
 Victoire!
 
 [DON JOSÉ] 
-// éperdu
+(éperdu)
 Pour la dernière fois, démon,
 veux-tu me suivre? 
 
@@ -3489,18 +3345,18 @@ Non! non!
 Cette bague, autrefois, 
 tu me l'avais donnée...
 
-// elle la jette à la volée
+(elle la jette à la volée)
 
 Tiens!
 
 [DON JOSÉ] 
-// José a frappé Carmen
+(José a frappé Carmen)
 Eh bien! damnée!
 
 // Elle tombe morte...
 
 [CHOEUR]
-// dans le cirque
+(dans le cirque)
 Victoire! Bravo! Ah!
 
 (don José, éperdu, s'agenouille 
@@ -3514,12 +3370,10 @@ qu'un oeil noir te regarde
 et que l'amour t'attend,
 Toréador, l'amour t'attend! 
 
-//(Le vélum s'ouvre; Escamillo 
-//paraît entouré de la foule qui 
-//l'acclame)
+//(Le vélum s'ouvre; Escamillo paraît entouré de la foule qui l'acclame)
 
 [DON JOSÉ] 
-// se levant
+(se levant)
 Vous pouvez m'arréter... 
 c'est moi qui l'ai tuée!
 Ma Carmen adorée! 
