@@ -1,11 +1,11 @@
-### Nº0 🎵 Prelude
+### Nº1 🎵 Prelude
 PRELUDE
 # ACTE PREMIER
 ACTE PREMIER
 //(Une place, à Séville. A droite, la porte de la manufacture de tabac. A gauche, au premier plan, le corps de garde. Devant le corps de garde, exhaussée de deux ou trois marches; près du corps de garde, dans un râtelier, les lances des dragons avec leurs banderoles jaunes et rouges.)
 
 ## Scène Première
-### Nº1 🎵 Introduction
+### Nº2 🎵 Sur la place
 
 //(Au lever du rideau, une quinzaine de soldats, Dragons du régiment d'Alcala, sont groupés devant le corps de garde. 
 //Les uns assis et fumant, les autres accoudés sur le balustrade de la galerie. Mouvement de passants sur la place. Des gens pressés, affairés, vont, viennent, se rencontrent, se saluent, se bousculent, etc.)
@@ -153,7 +153,7 @@ Drôles de gens!
 
 ## Scène Seconde
 
-### Nº2 🎵  Marche et Choeur des Gamins
+### Nº3 🎵 Avec la garde montante
 
 //(clairon de loin derrière la scène. 
 //Les passants forment un groupe 
@@ -286,7 +286,7 @@ Dix-sept ans...
 [ZUNIGA]
 Je le comprends maintenant...
 
-### Nº3 🎵 Choeur et Scène
+
 
 //(La cloche de la manufacture 
 //se fait entendre.)
@@ -297,6 +297,8 @@ Je le comprends maintenant...
 Voici la cloche qui sonne, mon lieutenant, 
 et vous allez pouvoir juger 
 par vous-même... 
+
+### Nº4 🎵 La cloche a sonné
 
 //(La place se remplit de jeunes gens qui
 //viennent se placer sur le passage des
@@ -407,7 +409,7 @@ Ma foi, je ne sais pas...
 Peut-être jamais!.. peut-être demain!..
 Mais pas aujourd'hui... c'est certain. 
 
-### Nº4 🎵 Havanaise
+### Nº5 🎵 Habanera
 
 [CARMEN, CHOEUR]
 L'amour est un oiseau rebelle
@@ -436,7 +438,7 @@ l'amour! l'amour!
 
 ## Scène Sixième
 
-### Nº5 🎵 Scène
+### Nº6 🎵 Scène
 
 [JEUNES GENS]
 Carmen! sur tes pas 
@@ -497,7 +499,7 @@ Micaëla!.. c'est toi...
 C'est moi!...
 C'est votre mère qui m'envoie... 
 
-### Nº6 🎵 Duo
+### Nº7 🎵 Duo
 
 [DON JOSÉ]
 // ému
@@ -680,7 +682,7 @@ quant à tes fleurs, sorcière infâme!
 
 ## Scène Huitième
 
-### Nº7 🎵 Choeur
+### Nº8 🎵 Choeur
 
 (Au moment où il va arracher les fleurs 
 de sa veste, grande rumeur dans l'intérieur
@@ -831,7 +833,7 @@ Oui, mon lieutenant...
 Et qu'est-ce qu'elle disait? 
 Parlez, j'attends...
 
-### Nº8 🎵 Chanson et Mélodrame
+### Nº9 🎵 Song and melodrama
 
 [CARMEN]
 // fredonnant
@@ -969,7 +971,7 @@ Ne me parle plus, je te défends de me parler.
 Vous me défendez de parler, 
 je ne parlerai plus...
 
-### Nº9 🎵 Chanson et Duo
+### Nº10 🎵 Seguidilla et Duo
 
 [CARMEN]
 (avec intention en regardant souvent 
@@ -1086,7 +1088,7 @@ Le lieutenant!.. Prenez garde!
 escabeau, les mains derrière le dos. 
 Rentre le lieutenant.)
 
-### Nº10 🎵 Final
+### Nº11 🎵 Final
 
 ## Scène Onzième
 
@@ -1129,7 +1131,7 @@ si je t'aime, prends garde à toi!
 //bohémiennes, au milieu de la scène,
 //dansent)
 
-### Nº11 🎵 Chanson
+### Nº12 🎵 Gypsy song
 
 [CARMEN]
 Les tringles des sistres tintaient
@@ -1235,7 +1237,7 @@ Aujourd'hui il a sorti de la prison
 Tout est bien puisqu'il en est sorti, 
 tout est bien. 
 
-### Nº12 🎵 Choeur et Ensemble
+### Nº13 🎵 Choeur et Ensemble
 
 [CHOEUR]
 // derrière la scène
@@ -1297,7 +1299,7 @@ Vivat! vivat le torero!
 
 ## Scène Seconde
 
-### Nº13 🎵 Couplets
+### Nº14 🎵 Toreador Song
 
 [ESCAMILLO]
 // rude et très rythmé
@@ -1416,8 +1418,6 @@ Je ne vous conseille pas de revenir...
 [ZUNIGA]
 Je me risquerai.
 
-### Nº13bis 🎵 Choeur
-
 [CHOEUR]
 Toréador, en garde!
 Toréador! Toréador!
@@ -1480,7 +1480,7 @@ Qu'est-ce que nous ferons?
 [DANCAIRE]
 Pour autre chose...
 
-### Nº14 🎵 Quintette
+### Nº15 🎵 Quintette
 
 [DANCAIRE]
 Nous avons en tête une affaire!
@@ -1690,7 +1690,7 @@ Ne parie pas, tu perdrais...
 
 ## Scène Quatrième
 
-### Nº15 🎵 Chanson
+### Nº16 🎵 Chanson
 
 [DON JOSÉ] 
 // la voix très éloigné
@@ -1811,7 +1811,7 @@ Eh bien, si tu le veux,
 je danserai pour toi maintenant, 
 pour toi tout seul. 
 
-### Nº16 🎵 Duo
+### Nº17 🎵 Duet
 
 [CARMEN] 
 // avec une solennité comique
@@ -2082,7 +2082,7 @@ Adieu!
 
 ## Scène Sixième
 
-### Nº17 🎵 Final
+### Nº18 🎵 Final
 
 [ZUNIGA] 
 // au dehors
@@ -2252,7 +2252,7 @@ La liberté! La liberté!
 
 ## Scène Première
 
-### Nº18 🎵 Introduction
+### Nº19 🎵 Sextet ans chorus
 
 //(Le rideau se lève sur des rochers. Site
 //pittoresque et sauvage. Solitude complète
@@ -2352,7 +2352,7 @@ Mais oui, je te l'ai déjà dit...
 //répliques de la scène, Mercédès et Frasquita ont 
 //étalé des cartes devant elles)
 
-### Nº19 🎵 Trio
+### Nº20 🎵 Trio
 
 [FRASQUITA, MERCÉDÈS]
 Mêlons! Coupons!
@@ -2525,7 +2525,7 @@ sur l'indiscret
 En route, les enfants...
 
 
-### Nº20 🎵 Morceau d'Ensemble
+### Nº21 🎵 Morceau d'Ensemble
 
 [FRASQUITA, MERCÉDÈS, CARMEN, BOHÉMIENNES]
 Quant au douanier, 
@@ -2626,7 +2626,7 @@ vous soient en aide...
 
 ## Scène Cinquième
 
-### Nº21 🎵 Air
+### Nº22 🎵 Air
 
 [MICAELA]
 Je dis que rien ne m'épouvante,
@@ -2672,7 +2672,7 @@ Qui êtes-vous? répondez.
 // très calm
 Eh là... doucement! 
 
-### Nº22 🎵 Duo
+### Nº23 🎵 Duet
 
 [ESCAMILLO]
 Je suis Escamillo, torero de Grenade. 
@@ -2851,7 +2851,7 @@ Tant pis pour qui tarde
 //précipitent)
 
 
-### Nº23 🎵 Final
+### Nº24 🎵 Final
 
 [CARMEN]
 // arrêtant le bras de don José
@@ -3078,7 +3078,7 @@ Micaëla, partons!
 
 ## Scène Première
 
-### Nº24 🎵 Choeur
+### Nº25 🎵 Choeur
 
 [MARCHANDS]
 À deux cuartos! À deux cuartos!
@@ -3161,7 +3161,7 @@ Hum! je ne serais pas tranquille
 à la place de Carmen, 
 je ne serais pas tranquille du tout. 
 
-### Nº25 🎵 Choeur et Scène
+### Nº26 🎵 Choeur et Scène
 
 [ENFANTS]
 // au dehors
@@ -3310,10 +3310,10 @@ Prends garde!
 
 ## Scène Seconde
 
-### Nº26 🎵 Duo final
+### Nº27 🎵 Duo final
 
 [CARMEN]
-C'est toi! 
+C'est toi? 
 
 [DON JOSÉ]
 C'est moi! 
